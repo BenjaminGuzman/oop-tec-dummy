@@ -1,0 +1,868 @@
+ID,Título Serie o Película,Duración,Género,Calificación,Fecha,ID Episodio,Título Episodio,Temporada,Episodio
+tt0088763,Back to the Future,116 min,"Adventure, Comedy, Sci-Fi",8.5,1985,,,,
+tt0112851,Desperado,104 min,"Action, Crime, Thriller",7.2,1995,,,,
+tt0477347,Night at the Museum,108 min,"Adventure, Comedy, Family, Fantasy",6.4,2006,,,,
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.5,2009–2010,tt1216522,Ghost,1,1
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.9,2009–2010,tt1216523,The Target,1,2
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.2,2009–2010,tt1216524,Stage Fright,1,3
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.7,2009–2010,tt1208132,Gray Hour,1,4
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.4,2009–2010,tt1216526,True Believer,1,5
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.7,2009–2010,tt1216525,Man on the Street,1,6
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.9,2009–2010,tt1216527,Echoes,1,7
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.4,2009–2010,tt1356321,Needs,1,8
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.7,2009–2010,tt1356320,A Spy in the House of Love,1,9
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.9,2009–2010,tt1356319,Haunted,1,10
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.8,2009–2010,tt1356318,Briar Rose,1,11
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.6,2009–2010,tt1385113,Omega,1,12
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",9.0,2009–2010,tt1417754,Epitaph One,1,13
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.8,2009–2010,tt1472477,Vows,2,1
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.4,2009–2010,tt1498132,Instinct,2,2
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",7.9,2009–2010,tt1484583,Belle Chose,2,3
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.8,2009–2010,tt1494936,Belonging,2,4
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.4,2009–2010,tt1518945,The Public Eye,2,5
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.6,2009–2010,tt1518944,The Left Hand,2,6
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.0,2009–2010,tt1535688,Meet Jane Doe,2,7
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.6,2009–2010,tt1535687,A Love Supreme,2,8
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.0,2009–2010,tt1535689,Stop-Loss,2,9
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",9.1,2009–2010,tt1535690,The Attic,2,10
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.9,2009–2010,tt1537128,Getting Closer,2,11
+tt1135300,Dollhouse,44 min,"Drama, Mystery, Sci-Fi, Thriller",8.9,2009–2010,tt1537130,Epitaph Two: Return,2,13
+tt0093870,RoboCop,102 min,"Action, Crime, Sci-Fi, Thriller",7.5,1987,,,,
+tt0087332,Ghostbusters,105 min,"Action, Comedy, Fantasy",7.8,1984,,,,
+tt0104009,Cool World,102 min,"Animation, Comedy, Fantasy",4.9,1992,,,,
+tt0246578,Donnie Darko,113 min,"Drama, Mystery, Sci-Fi, Thriller",8.0,2001,,,,
+tt0036775,Double Indemnity,107 min,"Crime, Drama, Film-Noir, Mystery, Thriller",8.3,1944,,,,
+tt0120176,The Spanish Prisoner,110 min,"Drama, Mystery, Thriller",7.2,1997,,,,
+tt5606664,Doctor Sleep,152 min,"Drama, Fantasy, Horror, Thriller",7.4,2019,,,,
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.3,2015–2019,tt3733950,Pilot,1,1
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.1,2015–2019,tt3822192,"Brother, Can You Spare a Brain?",1,2
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",7.9,2015–2019,tt4021078,The Exterminator,1,3
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",7.9,2015–2019,tt4089160,Liv and Let Clive,1,4
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.2,2015–2019,tt4142142,Flight of the Living Dead,1,5
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.2,2015–2019,tt4133384,Virtual Reality Bites,1,6
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.1,2015–2019,tt4157848,Maternity Liv,1,7
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.4,2015–2019,tt4316304,Dead Air,1,8
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.7,2015–2019,tt4228716,Patriot Brains,1,9
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.4,2015–2019,tt4239796,Mr. Berserk,1,10
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.9,2015–2019,tt4276560,Astroburger,1,11
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",9.0,2015–2019,tt4301958,"Dead Rat, Live Rat, Brown Rat, White Rat",1,12
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",9.2,2015–2019,tt4424428,Blaine's World,1,13
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.4,2015–2019,tt4665126,Grumpy Old Liv,2,1
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.6,2015–2019,tt4962758,Zombie Bro,2,2
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.2,2015–2019,tt5012590,Real Dead Housewife of Seattle,2,3
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.3,2015–2019,tt5031902,Even Cowgirls Get the Black and Blues,2,4
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.2,2015–2019,tt5119958,Love & Basketball,2,5
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.3,2015–2019,tt5055264,Max Wager,2,6
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.3,2015–2019,tt5178410,Abra Cadaver,2,7
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.4,2015–2019,tt5104310,The Hurt Stalker,2,8
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.5,2015–2019,tt5155188,Cape Town,2,9
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.4,2015–2019,tt5202278,Method Head,2,10
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.6,2015–2019,tt5270952,Fifty Shades of Grey Matter,2,11
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.3,2015–2019,tt5256922,"Physician, Heal Thy Selfie",2,12
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.5,2015–2019,tt5270964,The Whopper,2,13
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.8,2015–2019,tt5270970,Eternal Sunshine of the Caffeinated Mind,2,14
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.7,2015–2019,tt5270972,He Blinded Me... With Science,2,15
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.8,2015–2019,tt5270980,"Pour Some Sugar, Zombie",2,16
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.8,2015–2019,tt5270984,Reflections of the Way Liv Used to Be,2,17
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",9.3,2015–2019,tt5270988,Dead Beat,2,18
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",9.3,2015–2019,tt5223550,Salivation Army,2,19
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.2,2015–2019,tt5540908,Heaven Just Got a Little Bit Smoother,3,1
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.8,2015–2019,tt6176870,Zombie Knows Best,3,2
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.1,2015–2019,tt6046100,Wag the Tongue Slowly,3,4
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.5,2015–2019,tt6173596,Some Like It Hot Mess,3,6
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.2,2015–2019,tt6227020,Eat a Knievel,3,8
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.6,2015–2019,tt6351968,"Twenty-Sided, Die",3,9
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.4,2015–2019,tt6340202,Return of the Dead Guy,3,10
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.5,2015–2019,tt6432358,Conspiracy Weary,3,11
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.8,2015–2019,tt6340066,"Looking for Mr. Goodbrain, Part 2",3,13
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.0,2015–2019,tt6889246,Are You Ready for Some Zombies?,4,1
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",7.9,2015–2019,tt7291774,Blue Bloody,4,2
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.1,2015–2019,tt7360222,"Brainless in Seattle, Part 1",4,3
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.2,2015–2019,tt7457718,Goon Struck,4,5
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.3,2015–2019,tt7517336,My Really Fair Lady,4,6
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",7.9,2015–2019,tt7538714,"Don't Hate the Player, Hate the Brain",4,7
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.0,2015–2019,tt7575114,Chivalry is Dead,4,8
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.1,2015–2019,tt7653510,Mac-Liv-Moore,4,9
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.2,2015–2019,tt7653516,"Yipee Ki Brain, Motherscratcher!",4,10
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.5,2015–2019,tt7689514,Insane in the Germ Brain,4,11
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",9.3,2015–2019,tt7980670,And He Shall Be a Good Man,4,13
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.0,2015–2019,tt8479322,Thug Death,5,1
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",7.9,2015–2019,tt8918960,Dead Lift,5,2
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.3,2015–2019,tt8951666,"Five, Six, Seven, Ate!",5,3
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",7.9,2015–2019,tt9180076,The Scratchmaker,5,6
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",N/A,2015–2019,tt9407892,Filleted To Rest,5,7
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",7.7,2015–2019,tt9382170,Death of a Car Salesman,5,8
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",7.9,2015–2019,tt9377044,The Fresh Princess,5,9
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.1,2015–2019,tt9511482,Night and the Zombie City,5,10
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",7.8,2015–2019,tt9445556,Killer Queen,5,11
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",N/A,2015–2019,tt9651738,Episode #5.12,5,12
+tt3501584,iZombie,42 min,"Comedy, Crime, Drama, Horror",8.5,2015–2019,tt9651752,All's Well That Ends Well,5,13
+tt0472181,The Smurfs,103 min,"Animation, Adventure, Comedy, Family, Fantasy",5.4,2011,,,,
+tt0103873,Dead Alive,104 min,"Comedy, Horror",7.5,1992,,,,
+tt0106308,Army of Darkness,81 min,"Comedy, Horror",7.5,1992,,,,
+tt0046183,Peter Pan,77 min,"Animation, Adventure, Family, Fantasy, Musical",7.3,1953,,,,
+tt0199753,Red Planet,106 min,"Action, Sci-Fi, Thriller",5.7,2000,,,,
+tt0120647,Deep Impact,120 min,"Action, Drama, Romance, Sci-Fi, Thriller",6.2,1998,,,,
+tt0116908,The Long Kiss Goodnight,121 min,"Action, Crime, Drama, Mystery, Thriller",6.8,1996,,,,
+tt1051904,Goosebumps,103 min,"Adventure, Comedy, Family, Fantasy, Horror",6.3,2015,,,,
+tt0468569,The Dark Knight,152 min,"Action, Crime, Drama, Thriller",9.0,2008,,,,
+tt0305669,Bringing Down the House,105 min,Comedy,5.6,2003,,,,
+tt0114369,Se7en,127 min,"Crime, Drama, Mystery, Thriller",8.6,1995,,,,
+tt0241303,Chocolat,121 min,"Drama, Romance",7.2,2000,,,,
+tt1440728,The American,105 min,"Crime, Drama, Thriller",6.3,2010,,,,
+tt0112346,The American President,114 min,"Comedy, Drama, Romance",6.8,1995,,,,
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.0,2011–,tt1480055,Winter Is Coming,1,1
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt1668746,The Kingsroad,1,2
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.7,2011–,tt1829962,Lord Snow,1,3
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt1829963,"Cripples, Bastards, and Broken Things",1,4
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.1,2011–,tt1829964,The Wolf and the Lion,1,5
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.2,2011–,tt1837862,A Golden Crown,1,6
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.2,2011–,tt1837863,You Win or You Die,1,7
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.0,2011–,tt1837864,The Pointy End,1,8
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.6,2011–,tt1851398,Baelor,1,9
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.5,2011–,tt1851397,Fire and Blood,1,10
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt1971833,The North Remembers,2,1
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.5,2011–,tt2069318,The Night Lands,2,2
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt2070135,What Is Dead May Never Die,2,3
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt2069319,Garden of Bones,2,4
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt2074658,The Ghost of Harrenhal,2,5
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.1,2011–,tt2085238,The Old Gods and the New,2,6
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.9,2011–,tt2085239,A Man Without Honor,2,7
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt2085240,The Prince of Winterfell,2,8
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.7,2011–,tt2084342,Blackwater,2,9
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.4,2011–,tt2112510,Valar Morghulis,2,10
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt2178782,Valar Dohaeris,3,1
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.6,2011–,tt2178772,"Dark Wings, Dark Words",3,2
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.9,2011–,tt2178802,Walk of Punishment,3,3
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.6,2011–,tt2178798,And Now His Watch Is Ended,3,4
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.0,2011–,tt2178788,Kissed by Fire,3,5
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt2178812,The Climb,3,6
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.7,2011–,tt2178814,The Bear and the Maiden Fair,3,7
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.0,2011–,tt2178806,Second Sons,3,8
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.9,2011–,tt2178784,The Rains of Castamere,3,9
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.1,2011–,tt2178796,Mhysa,3,10
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.1,2011–,tt2816136,Two Swords,4,1
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.7,2011–,tt2832378,The Lion and the Rose,4,2
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.9,2011–,tt2972426,Breaker of Chains,4,3
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt2972428,Oathkeeper,4,4
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.7,2011–,tt3060856,First of His Name,4,5
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.7,2011–,tt3060910,The Laws of Gods and Men,4,6
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.1,2011–,tt3060876,Mockingbird,4,7
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.7,2011–,tt3060782,The Mountain and the Viper,4,8
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.6,2011–,tt3060858,The Watchers on the Wall,4,9
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.7,2011–,tt3060860,The Children,4,10
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.5,2011–,tt3658012,The Wars to Come,5,1
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.5,2011–,tt3846626,The House of Black and White,5,2
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.5,2011–,tt3866836,High Sparrow,5,3
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.7,2011–,tt3866838,Sons of the Harpy,5,4
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.6,2011–,tt3866840,Kill the Boy,5,5
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.0,2011–,tt3866842,"Unbowed, Unbent, Unbroken",5,6
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.0,2011–,tt3866846,The Gift,5,7
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.9,2011–,tt3866850,Hardhome,5,8
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.5,2011–,tt3866826,The Dance of Dragons,5,9
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.1,2011–,tt3866862,Mother's Mercy,5,10
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.5,2011–,tt3658014,The Red Woman,6,1
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.4,2011–,tt4077554,Home,6,2
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.7,2011–,tt4131606,Oathbreaker,6,3
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.1,2011–,tt4283016,Book of the Stranger,6,4
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.7,2011–,tt4283028,The Door,6,5
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.4,2011–,tt4283054,Blood of My Blood,6,6
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.6,2011–,tt4283060,The Broken Man,6,7
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.4,2011–,tt4283074,No One,6,8
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.9,2011–,tt4283088,Battle of the Bastards,6,9
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.9,2011–,tt4283094,The Winds of Winter,6,10
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.6,2011–,tt5654088,Dragonstone,7,1
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.9,2011–,tt5655178,Stormborn,7,2
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.2,2011–,tt5775840,The Queen's Justice,7,3
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.8,2011–,tt5775846,The Spoils of War,7,4
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",8.8,2011–,tt5775854,Eastwatch,7,5
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.0,2011–,tt5775864,Beyond the Wall,7,6
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",9.4,2011–,tt5775874,The Dragon and the Wolf,7,7
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",7.6,2011–,tt5924366,Winterfell,8,1
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",7.9,2011–,tt6027908,A Knight of the Seven Kingdoms,8,2
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",7.5,2011–,tt6027912,The Long Night,8,3
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",5.5,2011–,tt6027914,The Last of the Starks,8,4
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",6.0,2011–,tt6027916,The Bells,8,5
+tt0944947,Game of Thrones,57 min,"Action, Adventure, Drama, Fantasy, Romance",4.1,2011–,tt6027920,The Iron Throne,8,6
+tt0082198,Conan the Barbarian,129 min,"Action, Adventure, Fantasy",6.9,1982,,,,
+tt0126029,Shrek,90 min,"Animation, Adventure, Comedy, Family, Fantasy",7.8,2001,,,,
+tt0082406,The Fox and the Hound,83 min,"Animation, Adventure, Drama, Family",7.3,1981,,,,
+tt1279935,Date Night,88 min,"Comedy, Crime, Romance, Thriller",6.3,2010,,,,
+tt1228705,Iron Man 2,124 min,"Action, Adventure, Sci-Fi",7.0,2010,,,,
+tt0108358,Tombstone,130 min,"Action, Biography, Drama, History, Western",7.8,1993,,,,
+tt2494362,Bone Tomahawk,132 min,"Drama, Horror, Western",7.1,2015,,,,
+tt0096487,Young Guns,107 min,"Action, Western",6.9,1988,,,,
+tt0437086,Alita: Battle Angel,122 min,"Action, Adventure, Sci-Fi, Thriller",7.3,2019,,,,
+tt0137523,Fight Club,139 min,Drama,8.8,1999,,,,
+tt0209958,The Cell,107 min,"Horror, Sci-Fi, Thriller",6.3,2000,,,,
+tt1139668,The Unborn,88 min,"Drama, Horror, Mystery, Thriller",4.8,2009,,,,
+tt0071222,Black Christmas,98 min,"Horror, Mystery, Thriller",7.2,1974,,,,
+tt1488555,The Change-Up,112 min,"Comedy, Fantasy",6.3,2011,,,,
+tt0104691,The Last of the Mohicans,112 min,"Action, Adventure, Drama, Romance, War",7.7,1992,,,,
+tt1130884,Shutter Island,138 min,"Mystery, Thriller",8.1,2010,,,,
+tt0122690,Ronin,122 min,"Action, Crime, Thriller",7.3,1998,,,,
+tt0107818,Philadelphia,125 min,Drama,7.7,1993,,,,
+tt0082158,Chariots of Fire,125 min,"Biography, Drama, Sport",7.2,1981,,,,
+tt0118113,Walking and Talking,86 min,"Comedy, Drama, Romance",6.7,1996,,,,
+tt0351977,Walking Tall,86 min,"Action, Crime",6.3,2004,,,,
+tt0405422,The 40-Year-Old Virgin,116 min,"Comedy, Romance",7.1,2005,,,,
+tt0086393,Superman III,125 min,"Action, Adventure, Comedy, Sci-Fi",5.0,1983,,,,
+tt1778108,The Hour,60 min,Drama,7.9,2011–2012,tt1780585,Pilot,1,1
+tt1778108,The Hour,60 min,Drama,8.0,2011–2012,tt1822069,Episode #1.2,1,2
+tt1778108,The Hour,60 min,Drama,8.1,2011–2012,tt1822071,Episode #1.4,1,4
+tt1778108,The Hour,60 min,Drama,8.3,2011–2012,tt1822072,Episode #1.5,1,5
+tt1778108,The Hour,60 min,Drama,8.7,2011–2012,tt1822073,Episode #1.6,1,6
+tt1778108,The Hour,60 min,Drama,8.3,2011–2012,tt2223419,Episode #2.1,2,1
+tt1778108,The Hour,60 min,Drama,8.4,2011–2012,tt2223421,Episode #2.2,2,2
+tt1778108,The Hour,60 min,Drama,8.5,2011–2012,tt2223423,Episode #2.3,2,3
+tt1778108,The Hour,60 min,Drama,8.5,2011–2012,tt2223425,Episode #2.4,2,4
+tt1778108,The Hour,60 min,Drama,8.6,2011–2012,tt2223427,Episode #2.5,2,5
+tt1778108,The Hour,60 min,Drama,8.7,2011–2012,tt2223429,Episode #2.6,2,6
+tt0274812,Secretary,107 min,"Comedy, Drama, Romance",7.0,2002,,,,
+tt1028576,Secretariat,123 min,"Biography, Drama, Family, History, Sport",7.2,2010,,,,
+tt0100405,Pretty Woman,119 min,"Comedy, Romance",7.0,1990,,,,
+tt0108160,Sleepless in Seattle,105 min,"Comedy, Drama, Romance",6.8,1993,,,,
+tt0020030,The Iron Mask,95 min,"Adventure, Drama, History, Romance",7.5,1929,,,,
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",8.1,1987–1990,tt0756856,Treasure of the Golden Suns: Don't Give Up the Ship,1,1
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",8.1,1987–1990,tt1052609,Treasure of the Golden Suns: Three Ducks of the Condor,1,3
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",7.3,1987–1990,tt1008179,Luck o' the Ducks,1,7
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",8.2,1987–1990,tt1008181,Duck in the Iron Mask,1,10
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",8.1,1987–1990,tt1008180,Much Ado About Scrooge,1,11
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",8.5,1987–1990,tt0948893,Catch as Cash Can: Part 1 - A Drain on the Economy,1,27
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",7.5,1987–1990,tt1052574,Ducky Horror Picture Show,1,32
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",7.7,1987–1990,tt0566949,Sphinx for the Memories,1,40
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",8.4,1987–1990,tt1052556,All Ducks on Deck,1,50
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",8.2,1987–1990,tt0566943,Hotel Strangeduck,1,62
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",7.8,1987–1990,tt1008178,'Till Nephews Do Us Part,1,65
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",7.5,1987–1990,tt1052613,Time Is Money: Part 5 - Ali Bubba's Cave,2,5
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",8.0,1987–1990,tt1052582,Liquid Assets,2,6
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",7.9,1987–1990,tt1052577,Frozen Assets,2,7
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",7.7,1987–1990,tt1052578,Full Metal Duck,2,8
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",7.7,1987–1990,tt1052589,New Gizmo-Kids on the Block,3,4
+tt0092345,DuckTales,23 min,"Animation, Adventure, Comedy, Family",8.4,1987–1990,tt1108183,The Golden Goose: Part 2,4,7
+tt0448115,Shazam!,132 min,"Action, Adventure, Comedy, Fantasy",7.1,2019,,,,
+tt0106400,The Beverly Hillbillies,92 min,"Comedy, Family",5.0,1993,,,,
+tt1142988,The Ugly Truth,96 min,"Comedy, Romance",6.4,2009,,,,
+tt1658052,Bounty Hunter,4 min,"Short, Crime, Drama, Thriller",8.0,2010,,,,
+tt0098258,Say Anything...,100 min,"Comedy, Drama, Romance",7.3,1989,,,,
+tt0109021,8 Seconds,105 min,"Biography, Drama, Sport, Western",6.6,1994,,,,
+tt0017136,Metropolis,153 min,"Drama, Sci-Fi",8.3,1927,,,,
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt2340185,Pilot,1,1
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt2310910,Honor Thy Father,1,2
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt2310914,Lone Gunmen,1,3
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt2319602,An Innocent Man,1,4
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt2338426,Damaged,1,5
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.1,2012–2020,tt2377368,Legacies,1,6
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt2395358,Muse of Fire,1,7
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt2423266,Vendetta,1,8
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt2448164,Year's End,1,9
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.0,2012–2020,tt2467064,Burned,1,10
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt2496078,Trust But Verify,1,11
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt2519404,Vertigo,1,12
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt2527342,Betrayal,1,13
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.9,2012–2020,tt2561472,The Odyssey,1,14
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.1,2012–2020,tt2605292,Dodger,1,15
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt2633630,Dead to Rights,1,16
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt2654070,The Huntress Returns,1,17
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt2698256,Salvation,1,18
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt2712930,Unfinished Business,1,19
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt2761432,Home Invasion,1,20
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt2761428,The Undertaking,1,21
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.1,2012–2020,tt2761434,Darkness on the Edge of Town,1,22
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.5,2012–2020,tt2761440,Sacrifice,1,23
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt2702698,City of Heroes,2,1
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt3077106,Identity,2,2
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt3126166,Broken Dolls,2,3
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt3126168,Crucible,2,4
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.9,2012–2020,tt3128398,League of Assassins,2,5
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt3213782,Keep Your Enemies Closer,2,6
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt3213864,State v. Queen,2,7
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.1,2012–2020,tt3229412,The Scientist,2,8
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.3,2012–2020,tt3229414,Three Ghosts,2,9
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt3229416,Blast Radius,2,10
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt3263826,Blind Spot,2,11
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt3263824,Tremors,2,12
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt3263832,Heir to the Demon,2,13
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.9,2012–2020,tt3337656,Time of Death,2,14
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.2,2012–2020,tt3337658,The Promise,2,15
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt3337660,Suicide Squad,2,16
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt3337662,Birds of Prey,2,17
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.3,2012–2020,tt3535114,Deathstroke,2,18
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.0,2012–2020,tt3337666,The Man Under the Hood,2,19
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.4,2012–2020,tt3337668,Seeing Red,2,20
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.0,2012–2020,tt3337670,City of Blood,2,21
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.3,2012–2020,tt3337672,Streets of Fire,2,22
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.5,2012–2020,tt3337674,Unthinkable,2,23
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.9,2012–2020,tt3532626,The Calm,3,1
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt3856758,Sara,3,2
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt3879318,Corto Maltese,3,3
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt3919146,The Magician,3,4
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt3956512,The Secret Origin of Felicity Smoak,3,5
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt4006586,Guilty,3,6
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.1,2012–2020,tt4006576,Draw Back Your Bow,3,7
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.2,2012–2020,tt4006578,The Brave and the Bold,3,8
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.7,2012–2020,tt4006548,The Climb,3,9
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt4006582,Left Behind,3,10
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt4006570,Midnight City,3,11
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt4006574,Uprising,3,12
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt4006572,Canaries,3,13
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt4006600,The Return,3,14
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.9,2012–2020,tt4006588,Nanda Parbat,3,15
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt4006594,The Offer,3,16
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt4006606,Suicidal Tendencies,3,17
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.0,2012–2020,tt4006596,Public Enemy,3,18
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.1,2012–2020,tt4006602,Broken Arrow,3,19
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt4006584,The Fallen,3,20
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt4006598,Al Sah-Him,3,21
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.9,2012–2020,tt4006590,This Is Your Sword,3,22
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt4006604,My Name Is Oliver Queen,3,23
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt4345922,Green Arrow,4,1
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt4765782,The Candidate,4,2
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt4846212,Restoration,4,3
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt4854000,Beyond Redemption,4,4
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.9,2012–2020,tt4859064,Haunted,4,5
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt4859298,Lost Souls,4,6
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.1,2012–2020,tt4859296,Brotherhood,4,7
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.1,2012–2020,tt4859300,Legends of Yesterday,4,8
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.0,2012–2020,tt4859302,Dark Waters,4,9
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.1,2012–2020,tt4862532,Blood Debts,4,10
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.0,2012–2020,tt4862534,A.W.O.L.,4,11
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt4862538,Unchained,4,12
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt4862536,Sins of the Father,4,13
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.9,2012–2020,tt4862542,Code of Silence,4,14
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt4862540,Taken,4,15
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",6.3,2012–2020,tt4862544,Broken Hearts,4,16
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",6.7,2012–2020,tt4862546,Beacon of Hope,4,17
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.2,2012–2020,tt4862552,Eleven-Fifty-Nine,4,18
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",6.8,2012–2020,tt4862550,Canary Cry,4,19
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.5,2012–2020,tt4862548,Genesis,4,20
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.2,2012–2020,tt4862556,Monument Point,4,21
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.1,2012–2020,tt4862558,Lost in the Flood,4,22
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",5.6,2012–2020,tt4862554,Schism,4,23
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt5540390,Legacy,5,1
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt5584142,The Recruits,5,2
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt5584144,A Matter of Trust,5,3
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt5584146,Penance,5,4
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt5584148,Human Target,5,5
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt5584150,So It Begins,5,6
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt5584152,Vigilante,5,7
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.1,2012–2020,tt5584154,Invasion!,5,8
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.0,2012–2020,tt5584160,Who Are You?,5,10
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt5584162,Second Chances,5,11
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt5607494,Bratva,5,12
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.6,2012–2020,tt5607500,Spectre of the Gun,5,13
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.0,2012–2020,tt5607504,The Sin-Eater,5,14
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt5607508,Fighting Fire with Fire,5,15
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.1,2012–2020,tt5607510,Checkmate,5,16
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.3,2012–2020,tt5607512,Kapiushon,5,17
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt5607516,Disbanded,5,18
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.9,2012–2020,tt5607518,Dangerous Liaisons,5,19
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.7,2012–2020,tt5607522,Underneath,5,20
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt5607524,Honor Thy Fathers,5,21
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.1,2012–2020,tt5607526,Missing,5,22
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.7,2012–2020,tt5584166,Lian Yu,5,23
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.9,2012–2020,tt6403458,Fallout,6,1
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.0,2012–2020,tt6493654,Tribute,6,2
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.1,2012–2020,tt6493656,Next of Kin,6,3
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.4,2012–2020,tt6493658,Reversal,6,4
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt6493662,Deathstroke Returns,6,5
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.5,2012–2020,tt6493664,Promises Kept,6,6
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt6493666,Thanksgiving,6,7
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.0,2012–2020,tt6493668,"Crisis on Earth-X, Part 2",6,8
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.5,2012–2020,tt6493670,Irreconcilable Differences,6,9
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.7,2012–2020,tt6493672,Divided,6,10
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.7,2012–2020,tt6493676,We Fall,6,11
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt6493678,All for Nothing,6,12
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt6493680,The Devil's Greatest Trick,6,13
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.6,2012–2020,tt6493682,Collision Course,6,14
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.4,2012–2020,tt6493688,Doppelgänger,6,15
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt6493686,The Thanatos Guild,6,16
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.1,2012–2020,tt6493692,Brothers in Arms,6,17
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.9,2012–2020,tt6493690,Fundamentals,6,18
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt6493694,The Dragon,6,19
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.1,2012–2020,tt6493696,Shifting Allegiances,6,20
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.0,2012–2020,tt6493698,Docket No. 11-19-41-73,6,21
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt6493700,The Ties That Bind,6,22
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt6493702,Life Sentence,6,23
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt7508706,The Longbow Hunters,7,2
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.6,2012–2020,tt7508614,Crossing Lines,7,3
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt7508730,Level Two,7,4
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt7508746,The Demon,7,5
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt7508628,Due Process,7,6
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.6,2012–2020,tt7508606,The Slabside Redemption,7,7
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.2,2012–2020,tt7508702,"Elseworlds, Part 2",7,9
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.8,2012–2020,tt7508736,My Name Is Emiko Queen,7,10
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt7508632,Past Sins,7,11
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.9,2012–2020,tt7508650,Emerald Archer,7,12
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.3,2012–2020,tt7508738,Star City Slayer,7,13
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.2,2012–2020,tt7508618,Training Day,7,15
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.2,2012–2020,tt7508744,Inheritance,7,17
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",N/A,2012–2020,tt7508638,Lost Canary,7,18
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",7.8,2012–2020,tt7508752,Spartan,7,19
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",N/A,2012–2020,tt7508754,Confessions,7,20
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt7508728,Living Proof,7,21
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.8,2012–2020,tt7508750,You Have Saved This City,7,22
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.2,2012–2020,tt9700174,Welcome to Hong Kong,8,2
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.2,2012–2020,tt9700172,Leap of Faith,8,3
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.3,2012–2020,tt9700176,Present Tense,8,4
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",8.7,2012–2020,tt9700178,Prochnost,8,5
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.1,2012–2020,tt9700180,Reset,8,6
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.1,2012–2020,tt9700190,Purgatory,8,7
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",N/A,2012–2020,tt9700188,Green Arrow & the Canaries,8,9
+tt2193021,Arrow,42 min,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",9.6,2012–2020,tt9700192,Fadeout,8,10
+tt0087469,Indiana Jones and the Temple of Doom,118 min,"Action, Adventure",7.6,1984,,,,
+tt0079417,Kramer vs. Kramer,105 min,Drama,7.8,1979,,,,
+tt0368008,The Manchurian Candidate,129 min,"Drama, Mystery, Sci-Fi, Thriller",6.6,2004,,,,
+tt0081398,Raging Bull,129 min,"Biography, Drama, Sport",8.2,1980,,,,
+tt0113277,Heat,170 min,"Crime, Drama, Thriller",8.2,1995,,,,
+tt7286456,Joker,122 min,"Crime, Drama, Thriller",8.5,2019,,,,
+tt0257360,About Schmidt,125 min,"Comedy, Drama",7.1,2002,,,,
+tt0089885,Re-Animator,104 min,"Comedy, Horror, Sci-Fi",7.2,1985,,,,
+tt0251075,Evolution,101 min,"Comedy, Sci-Fi",6.1,2001,,,,
+tt0187078,Gone in 60 Seconds,118 min,"Action, Crime, Thriller",6.5,2000,,,,
+tt0493464,Wanted,110 min,"Action, Crime, Fantasy, Thriller",6.7,2008,,,,
+tt0089543,The Man with One Red Shoe,92 min,"Comedy, Thriller",5.7,1985,,,,
+tt0079367,The Jerk,94 min,Comedy,7.2,1979,,,,
+tt1172233,Whip It,111 min,"Drama, Sport",6.9,2009,,,,
+tt0098384,Steel Magnolias,117 min,"Comedy, Drama, Romance",7.3,1989,,,,
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.1,2012–2016,tt2168670,The Legend of the Gobblewonker,1,2
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.1,2012–2016,tt2168676,Headhunters,1,3
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.0,2012–2016,tt2229194,The Hand That Rocks the Mabel,1,4
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.8,2012–2016,tt2229196,The Inconveniencing,1,5
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.0,2012–2016,tt2229192,Dipper vs. Manliness,1,6
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.8,2012–2016,tt2267658,Double Dipper,1,7
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.5,2012–2016,tt2267660,Irrational Treasure,1,8
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.7,2012–2016,tt2340344,Fight Fighters,1,10
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.1,2012–2016,tt2340350,Little Dipper,1,11
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.7,2012–2016,tt2439428,Summerween,1,12
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.0,2012–2016,tt2468818,Boss Mabel,1,13
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.4,2012–2016,tt2717560,Bottomless Pit,1,14
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.0,2012–2016,tt2717562,The Deep End,1,15
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.7,2012–2016,tt2717564,Carpet Diem,1,16
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",7.7,2012–2016,tt2813658,Boyz Crazy,1,17
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.6,2012–2016,tt2973488,Land Before Swine,1,18
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.3,2012–2016,tt3031772,Dreamscaperers,1,19
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.3,2012–2016,tt3054596,Gideon Rises,1,20
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.9,2012–2016,tt3780836,Scary-oke,2,1
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.3,2012–2016,tt3802848,Into the Bunker,2,2
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.4,2012–2016,tt3918432,The Golf War,2,3
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.7,2012–2016,tt3918438,Sock Opera,2,4
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.8,2012–2016,tt4054258,Soos and the Real Girl,2,5
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.2,2012–2016,tt4082996,Little Gift Shop of Horrors,2,6
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.1,2012–2016,tt4074470,Society of the Blind Eye,2,7
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.1,2012–2016,tt4192532,Blendin's Game,2,8
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",7.9,2012–2016,tt4192536,The Love God,2,9
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.3,2012–2016,tt4373958,Northwest Mansion Mystery,2,10
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.8,2012–2016,tt4460256,Not What He Seems,2,11
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.6,2012–2016,tt4575574,A Tale of Two Stans,2,12
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.6,2012–2016,tt4823986,"Dungeons, Dungeons, & More Dungeons",2,13
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.7,2012–2016,tt4843660,Stanchurian Candidate,2,14
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.0,2012–2016,tt4938792,The Last Mabelcorn,2,15
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",8.3,2012–2016,tt4938796,Roadside Attraction,2,16
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.5,2012–2016,tt5045754,Dipper & Mabel vs. the Future,2,17
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.6,2012–2016,tt5107700,Weirdmageddon: Part 1,2,18
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.3,2012–2016,tt5153882,Weirdmageddon 2: Escape from Reality,2,19
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",9.8,2012–2016,tt5153884,Weirdmageddon 3: Take Back the Falls,2,20
+tt1865718,Gravity Falls,23 min,"Animation, Action, Adventure, Comedy, Family, Fantasy, Mystery, Sci-Fi",N/A,2012–2016,tt5201122,The End of Gravity Falls,2,21
+tt0451079,Horton Hears a Who!,86 min,"Animation, Adventure, Comedy, Family, Fantasy",6.8,2008,,,,
+tt0322589,Honey,94 min,"Drama, Music, Romance",5.4,2003,,,,
+tt0088846,Brazil,132 min,"Drama, Sci-Fi",7.9,1985,,,,
+tt0095243,Gorillas in the Mist,129 min,"Biography, Drama",7.0,1988,,,,
+tt0381681,Before Sunset,80 min,"Drama, Romance",8.0,2004,,,,
+tt1670387,After Dark,90 min,"Horror, Thriller",4.3,2013,,,,
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt1503241,Spanish 101,1,2
+tt1439629,Community,22 min,Comedy,8.3,2009–2015,tt1480354,Introduction to Film,1,3
+tt1439629,Community,22 min,Comedy,8.2,2009–2015,tt1527326,Social Psychology,1,4
+tt1439629,Community,22 min,Comedy,7.9,2009–2015,tt1515324,Advanced Criminal Law,1,5
+tt1439629,Community,22 min,Comedy,8.8,2009–2015,tt1528909,Introduction to Statistics,1,7
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt1531446,Home Economics,1,8
+tt1439629,Community,22 min,Comedy,8.9,2009–2015,tt1531175,Debate 109,1,9
+tt1439629,Community,22 min,Comedy,8.3,2009–2015,tt1544667,Environmental Science,1,10
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt1550378,Politics of Human Sexuality,1,11
+tt1439629,Community,22 min,Comedy,8.5,2009–2015,tt1559103,Comparative Religion,1,12
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt1575766,Investigative Journalism,1,13
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt1584204,Interpretive Dance,1,14
+tt1439629,Community,22 min,Comedy,8.2,2009–2015,tt1593849,Romantic Expressionism,1,15
+tt1439629,Community,22 min,Comedy,8.6,2009–2015,tt1593848,Communication Studies,1,16
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt1612641,Basic Genealogy,1,18
+tt1439629,Community,22 min,Comedy,8.5,2009–2015,tt1619954,The Science of Illusion,1,20
+tt1439629,Community,22 min,Comedy,9.3,2009–2015,tt1628912,Contemporary American Poultry,1,21
+tt1439629,Community,22 min,Comedy,9.8,2009–2015,tt1595996,Modern Warfare,1,23
+tt1439629,Community,22 min,Comedy,8.2,2009–2015,tt1628195,English as a Second Language,1,24
+tt1439629,Community,22 min,Comedy,8.6,2009–2015,tt1652486,Pascal's Triangle Revisited,1,25
+tt1439629,Community,22 min,Comedy,8.7,2009–2015,tt1640852,Anthropology 101,2,1
+tt1439629,Community,22 min,Comedy,8.3,2009–2015,tt1640868,Accounting for Lawyers,2,2
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt1640863,The Psychology of Letting Go,2,3
+tt1439629,Community,22 min,Comedy,8.8,2009–2015,tt1640869,Basic Rocket Science,2,4
+tt1439629,Community,22 min,Comedy,7.8,2009–2015,tt1640870,Messianic Myths and Ancient Peoples,2,5
+tt1439629,Community,22 min,Comedy,9.3,2009–2015,tt1640871,Epidemiology,2,6
+tt1439629,Community,22 min,Comedy,8.5,2009–2015,tt1640872,Aerodynamics of Gender,2,7
+tt1439629,Community,22 min,Comedy,9.1,2009–2015,tt1640873,Cooperative Calligraphy,2,8
+tt1439629,Community,22 min,Comedy,9.4,2009–2015,tt1640874,Conspiracy Theories and Interior Design,2,9
+tt1439629,Community,22 min,Comedy,8.5,2009–2015,tt1640853,Mixology Certification,2,10
+tt1439629,Community,22 min,Comedy,8.8,2009–2015,tt1640854,Abed's Uncontrollable Christmas,2,11
+tt1439629,Community,22 min,Comedy,7.9,2009–2015,tt1640856,Celebrity Pharmacology 212,2,13
+tt1439629,Community,22 min,Comedy,9.5,2009–2015,tt1824317,Advanced Dungeons & Dragons,2,14
+tt1439629,Community,22 min,Comedy,8.2,2009–2015,tt1640857,Early 21st Century Romanticism,2,15
+tt1439629,Community,22 min,Comedy,8.8,2009–2015,tt1640858,Intermediate Documentary Filmmaking,2,16
+tt1439629,Community,22 min,Comedy,8.3,2009–2015,tt1640860,Intro to Political Science,2,17
+tt1439629,Community,22 min,Comedy,9.0,2009–2015,tt1640862,Critical Film Studies,2,19
+tt1439629,Community,22 min,Comedy,7.7,2009–2015,tt1640864,Competitive Wine Tasting,2,20
+tt1439629,Community,22 min,Comedy,8.9,2009–2015,tt1640865,Paradigms of Human Memory,2,21
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt1640866,Applied Anthropology and Culinary Arts,2,22
+tt1439629,Community,22 min,Comedy,9.7,2009–2015,tt1640867,A Fistful of Paintballs,2,23
+tt1439629,Community,22 min,Comedy,9.6,2009–2015,tt1862636,For a Few Paintballs More,2,24
+tt1439629,Community,22 min,Comedy,8.2,2009–2015,tt1986325,Biology 101,3,1
+tt1439629,Community,22 min,Comedy,8.2,2009–2015,tt2060962,Geography of Global Conflict,3,2
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt2063144,Competitive Ecology,3,3
+tt1439629,Community,22 min,Comedy,9.8,2009–2015,tt2060963,Remedial Chaos Theory,3,4
+tt1439629,Community,22 min,Comedy,8.8,2009–2015,tt2063145,Horror Fiction in Seven Spooky Steps,3,5
+tt1439629,Community,22 min,Comedy,7.7,2009–2015,tt2049724,Advanced Gay,3,6
+tt1439629,Community,22 min,Comedy,8.6,2009–2015,tt2083482,Studies in Modern Movement,3,7
+tt1439629,Community,22 min,Comedy,9.0,2009–2015,tt2083483,Documentary Filmmaking: Redux,3,8
+tt1439629,Community,22 min,Comedy,8.5,2009–2015,tt2080563,Foosball and Nocturnal Vigilantism,3,9
+tt1439629,Community,22 min,Comedy,8.4,2009–2015,tt2115706,Foosball and Nocturnal Vigilantism,3,9
+tt1439629,Community,22 min,Comedy,8.7,2009–2015,tt2105238,Regional Holiday Music,3,10
+tt1439629,Community,22 min,Comedy,8.2,2009–2015,tt2090774,Contemporary Impressionists,3,12
+tt1439629,Community,22 min,Comedy,8.3,2009–2015,tt2128972,Digital Exploration of Interior Design,3,13
+tt1439629,Community,22 min,Comedy,9.3,2009–2015,tt2127579,Pillows and Blankets,3,14
+tt1439629,Community,22 min,Comedy,8.3,2009–2015,tt2194835,Origins of Vampire Mythology,3,15
+tt1439629,Community,22 min,Comedy,8.7,2009–2015,tt2194837,Virtual Systems Analysis,3,16
+tt1439629,Community,22 min,Comedy,9.4,2009–2015,tt2194839,Basic Lupine Urology,3,17
+tt1439629,Community,22 min,Comedy,8.3,2009–2015,tt2192103,Course Listing Unavailable,3,18
+tt1439629,Community,22 min,Comedy,9.2,2009–2015,tt2196353,Curriculum Unavailable,3,19
+tt1439629,Community,22 min,Comedy,9.5,2009–2015,tt2383315,Digital Estate Planning,3,20
+tt1439629,Community,22 min,Comedy,9.1,2009–2015,tt2279599,The First Chang Dynasty,3,21
+tt1439629,Community,22 min,Comedy,8.9,2009–2015,tt2383317,Introduction to Finality,3,22
+tt1439629,Community,22 min,Comedy,7.4,2009–2015,tt2295962,History 101,4,1
+tt1439629,Community,22 min,Comedy,7.7,2009–2015,tt2371360,Paranormal Parentage,4,2
+tt1439629,Community,22 min,Comedy,7.4,2009–2015,tt2672790,Conventions of Space and Time,4,3
+tt1439629,Community,22 min,Comedy,7.3,2009–2015,tt2699318,Alternative History of the German Invasion,4,4
+tt1439629,Community,22 min,Comedy,7.6,2009–2015,tt2712482,Cooperative Escapism in Familial Relations,4,5
+tt1439629,Community,22 min,Comedy,7.6,2009–2015,tt2717182,Advanced Documentary Filmmaking,4,6
+tt1439629,Community,22 min,Comedy,6.9,2009–2015,tt2764048,Economics of Marine Biology,4,7
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt2777464,Herstory of Dance,4,8
+tt1439629,Community,22 min,Comedy,7.7,2009–2015,tt2578322,Intro to Knots,4,10
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt2522288,Basic Human Anatomy,4,11
+tt1439629,Community,22 min,Comedy,8.2,2009–2015,tt2560884,Heroic Origins,4,12
+tt1439629,Community,22 min,Comedy,7.9,2009–2015,tt2855096,Advanced Introduction to Finality,4,13
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt2911368,Repilot,5,1
+tt1439629,Community,22 min,Comedy,8.7,2009–2015,tt3176520,Introduction to Teaching,5,2
+tt1439629,Community,22 min,Comedy,9.0,2009–2015,tt3230996,Basic Intergluteal Numismatics,5,3
+tt1439629,Community,22 min,Comedy,9.2,2009–2015,tt3278566,Cooperative Polygraphy,5,4
+tt1439629,Community,22 min,Comedy,9.4,2009–2015,tt3278574,Geothermal Escapism,5,5
+tt1439629,Community,22 min,Comedy,8.3,2009–2015,tt3278580,Analysis of Cork-Based Networking,5,6
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt3278586,Bondage and Beta Male Sexuality,5,7
+tt1439629,Community,22 min,Comedy,9.0,2009–2015,tt3278596,App Development and Condiments,5,8
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt3278600,VCR Maintenance and Educational Publishing,5,9
+tt1439629,Community,22 min,Comedy,8.5,2009–2015,tt3313070,Advanced Advanced Dungeons & Dragons,5,10
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt3313074,G.I. Jeff,5,11
+tt1439629,Community,22 min,Comedy,8.3,2009–2015,tt3313082,Basic Sandwich,5,13
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt3840022,Ladders,6,1
+tt1439629,Community,22 min,Comedy,7.7,2009–2015,tt4242868,Lawnmower Maintenance & Postnatal Care,6,2
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt4242870,Basic Crisis Room Decorum,6,3
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt4242872,Queer Studies & Advanced Waxing,6,4
+tt1439629,Community,22 min,Comedy,8.0,2009–2015,tt4242876,Laws of Robotics & Party Rights,6,5
+tt1439629,Community,22 min,Comedy,7.9,2009–2015,tt4242880,Basic Email Security,6,6
+tt1439629,Community,22 min,Comedy,7.6,2009–2015,tt4242884,Advanced Safety Features,6,7
+tt1439629,Community,22 min,Comedy,8.1,2009–2015,tt4242890,Intro to Recycled Cinema,6,8
+tt1439629,Community,22 min,Comedy,9.1,2009–2015,tt4242896,Modern Espionage,6,11
+tt1439629,Community,22 min,Comedy,8.7,2009–2015,tt4242898,Wedding Videography,6,12
+tt1439629,Community,22 min,Comedy,9.6,2009–2015,tt3898640,Emotional Consequences of Broadcast Television,6,13
+tt0364376,The Gingerdead Man,70 min,"Comedy, Fantasy, Horror",3.4,2005,,,,
+tt0844471,Cloudy with a Chance of Meatballs,90 min,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",6.9,2009,,,,
+tt0042546,Harvey,104 min,"Comedy, Drama, Fantasy",7.9,1950,,,,
+tt0031679,Mr. Smith Goes to Washington,129 min,"Comedy, Drama",8.1,1939,,,,
+tt0119488,L.A. Confidential,138 min,"Crime, Drama, Mystery, Thriller",8.2,1997,,,,
+tt0449059,Little Miss Sunshine,101 min,"Comedy, Drama",7.8,2006,,,,
+tt1235170,The Future,91 min,"Drama, Fantasy, Romance",6.2,2011,,,,
+tt0091225,Howard the Duck,110 min,"Action, Adventure, Comedy, Romance, Sci-Fi",4.7,1986,,,,
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.6,2016–,tt4593118,Chapter One: The Vanishing of Will Byers,1,1
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.5,2016–,tt4593122,Chapter Two: The Weirdo on Maple Street,1,2
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.9,2016–,tt4593126,"Chapter Three: Holly, Jolly",1,3
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",9.0,2016–,tt4593124,Chapter Four: The Body,1,4
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.8,2016–,tt4593128,Chapter Five: The Flea and the Acrobat,1,5
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.9,2016–,tt4593132,Chapter Six: The Monster,1,6
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",9.1,2016–,tt4593134,Chapter Seven: The Bathtub,1,7
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",9.4,2016–,tt4593138,Chapter Eight: The Upside Down,1,8
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.3,2016–,tt6020684,Chapter One: MADMAX,2,1
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.4,2016–,tt6020792,"Chapter Two: Trick or Treat, Freak",2,2
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.7,2016–,tt6020796,Chapter Three: The Pollywog,2,3
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.7,2016–,tt6020802,Chapter Four: Will the Wise,2,4
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.9,2016–,tt6020806,Chapter Five: Dig Dug,2,5
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",9.2,2016–,tt6020808,Chapter Six: The Spy,2,6
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",6.1,2016–,tt6020810,Chapter Seven: The Lost Sister,2,7
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",9.3,2016–,tt6020812,Chapter Eight: The Mind Flayer,2,8
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",9.4,2016–,tt6020876,Chapter Nine: The Gate,2,9
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",7.9,2016–,tt7445494,"Chapter One: Suzie, Do You Copy?",3,1
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.1,2016–,tt7640050,Chapter Two: The Mall Rats,3,2
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.5,2016–,tt7911866,Chapter Three: The Case of the Missing Lifeguard,3,3
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",9.0,2016–,tt7911884,Chapter Four: The Sauna Test,3,4
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.6,2016–,tt7911894,Chapter Five: The Flayed,3,5
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.7,2016–,tt7911914,Chapter Six: E Pluribus Unum,3,6
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",8.8,2016–,tt7911930,Chapter Seven: The Bite,3,7
+tt4574334,Stranger Things,51 min,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",9.3,2016–,tt7911942,Chapter Eight: The Battle of Starcourt,3,8
+tt1594562,The Innkeepers,101 min,"Drama, Horror, Mystery",5.4,2011,,,,
+tt8111088,The Mandalorian,30 min,"Action, Adventure, Sci-Fi",8.7,2019–,tt9095424,Chapter 1: The Mandalorian,1,1
+tt8111088,The Mandalorian,30 min,"Action, Adventure, Sci-Fi",8.7,2019–,tt9121530,Chapter 2: The Child,1,2
+tt8111088,The Mandalorian,30 min,"Action, Adventure, Sci-Fi",9.1,2019–,tt9121534,Chapter 3: The Sin,1,3
+tt8111088,The Mandalorian,30 min,"Action, Adventure, Sci-Fi",7.8,2019–,tt9121536,Chapter 4: Sanctuary,1,4
+tt8111088,The Mandalorian,30 min,"Action, Adventure, Sci-Fi",7.6,2019–,tt9121538,Chapter 5: The Gunslinger,1,5
+tt8111088,The Mandalorian,30 min,"Action, Adventure, Sci-Fi",8.4,2019–,tt9121542,Chapter 6: The Prisoner,1,6
+tt8111088,The Mandalorian,30 min,"Action, Adventure, Sci-Fi",9.2,2019–,tt9121544,Chapter 7: The Reckoning,1,7
+tt8111088,The Mandalorian,30 min,"Action, Adventure, Sci-Fi",9.4,2019–,tt9121546,Chapter 8: Redemption,1,8
+tt8111088,The Mandalorian,30 min,"Action, Adventure, Sci-Fi",N/A,2019–,tt11150494,Episode #2.1,2,1
+tt0087363,Gremlins,106 min,"Comedy, Fantasy, Horror",7.3,1984,,,,
+tt0065073,Taste the Blood of Dracula,91 min,"Drama, Fantasy, Horror, Romance, Thriller",6.4,1970,,,,
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583459,The One Where Monica Gets a Roommate,1,1
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583647,The One with the Sonogram at the End,1,2
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583653,The One with the Thumb,1,3
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583521,The One with George Stephanopoulos,1,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583599,The One with the East German Laundry Detergent,1,5
+tt0108778,Friends,22 min,"Comedy, Romance",9.0,1994–2004,tt0583579,The One with the Blackout,1,7
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583462,The One Where Nana Dies Twice,1,8
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583492,The One Where Underdog Gets Away,1,9
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583630,The One with the Monkey,1,10
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583534,The One with Mrs. Bing,1,11
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583598,The One with the Dozen Lasagnas,1,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583582,The One with the Boobies,1,13
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583587,The One with the Candy Hearts,1,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583649,The One with the Stoned Guy,1,15
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583568,The One with Two Parts: Part 1,1,16
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583569,The One with Two Parts: Part 2,1,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583510,The One with All the Poker,1,18
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583493,The One Where the Monkey Gets Away,1,19
+tt0108778,Friends,22 min,"Comedy, Romance",8.0,1994–2004,tt0583602,The One with the Evil Orthodontist,1,20
+tt0108778,Friends,22 min,"Comedy, Romance",7.9,1994–2004,tt0583603,The One with the Fake Monica,1,21
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583616,The One with the Ick Factor,1,22
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583577,The One with the Birth,1,23
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583469,The One Where Rachel Finds Out,1,24
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583562,The One with Ross's New Girlfriend,2,1
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583583,The One with the Breast Milk,2,2
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583453,The One Where Heckles Dies,2,3
+tt0108778,Friends,22 min,"Comedy, Romance",8.0,1994–2004,tt0583539,The One with Phoebe's Husband,2,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583519,The One with Five Steaks and an Eggplant,2,5
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583574,The One with the Baby on the Bus,2,6
+tt0108778,Friends,22 min,"Comedy, Romance",9.0,1994–2004,tt0583481,The One Where Ross Finds Out,2,7
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583625,The One with the List,2,8
+tt0108778,Friends,22 min,"Comedy, Romance",8.0,1994–2004,tt0583537,The One with Phoebe's Dad,2,9
+tt0108778,Friends,22 min,"Comedy, Romance",8.0,1994–2004,tt0583567,The One with Russ,2,10
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583624,The One with the Lesbian Wedding,2,11
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583439,The One After the Superbowl: Part 1,2,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0831047,The One After the Superbowl: Part 2,2,13
+tt0108778,Friends,22 min,"Comedy, Romance",9.4,1994–2004,tt0583635,The One with the Prom Video,2,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583488,The One Where Ross and Rachel... You Know,2,15
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583456,The One Where Joey Moves Out,2,16
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583448,The One Where Eddie Moves In,2,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583447,The One Where Dr. Ramoray Dies,2,18
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583449,The One Where Eddie Won't Go,2,19
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583465,The One Where Old Yeller Dies,2,20
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583584,The One with the Bullies,2,21
+tt0108778,Friends,22 min,"Comedy, Romance",9.0,1994–2004,tt0583656,The One with the Two Parties,2,22
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583591,The One with the Chicken Pox,2,23
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583514,The One with Barry and Mindy's Wedding,2,24
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583634,The One with the Princess Leia Fantasy,3,1
+tt0108778,Friends,22 min,"Comedy, Romance",9.0,1994–2004,tt0583464,The One Where No One's Ready,3,2
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583619,The One with the Jam,3,3
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583629,The One with the Metaphorical Tunnel,3,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583520,The One with Frank Jr.,3,5
+tt0108778,Friends,22 min,"Comedy, Romance",9.1,1994–2004,tt0583606,The One with the Flashback,3,6
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583637,The One with the Race Car Bed,3,7
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583609,The One with the Giant Poking Device,3,8
+tt0108778,Friends,22 min,"Comedy, Romance",9.0,1994–2004,tt0583607,The One with the Football,3,9
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583474,The One Where Rachel Quits,3,10
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583443,The One Where Chandler Can't Remember Which Sister,3,11
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583506,The One with All the Jealousy,3,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583461,The One Where Monica and Richard Are Just Friends,3,13
+tt0108778,Friends,22 min,"Comedy, Romance",7.9,1994–2004,tt0583538,The One with Phoebe's Ex-Partner,3,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583487,The One Where Ross and Rachel Take a Break,3,15
+tt0108778,Friends,22 min,"Comedy, Romance",9.1,1994–2004,tt0583501,The One with the Morning After,3,16
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583495,The One Without the Ski Trip,3,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583615,The One with the Hypnosis Tape,3,18
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583654,The One with the Tiny T-Shirt,3,19
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583596,The One with the Dollhouse,3,20
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583590,The One with the Chick and the Duck,3,21
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583643,The One with the Screamer,3,22
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583565,The One with Ross's Thing,3,23
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583657,The One with the Ultimate Fighting Champion,3,24
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583496,The One at the Beach,3,25
+tt0108778,Friends,22 min,"Comedy, Romance",9.1,1994–2004,tt0583620,The One with the Jellyfish,4,1
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583588,The One with the Cat,4,2
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583571,The One with the 'Cuffs,4,3
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583576,The One with the Ballroom Dancing,4,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583529,The One with Joey's New Girlfriend,4,5
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583444,The One Where Chandler Crosses the Line,4,7
+tt0108778,Friends,22 min,"Comedy, Romance",9.1,1994–2004,tt0583515,The One with Chandler in a Box,4,8
+tt0108778,Friends,22 min,"Comedy, Romance",7.9,1994–2004,tt0583490,The One Where They're Going to Party!,4,9
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583611,The One with the Girl from Poughkeepsie,4,10
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583541,The One with Phoebe's Uterus,4,11
+tt0108778,Friends,22 min,"Comedy, Romance",9.5,1994–2004,tt0583600,The One with the Embryos,4,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583547,The One with Rachel's Crush,4,13
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583525,The One with Joey's Dirty Day,4,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583512,The One with All the Rugby,4,15
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583604,The One with the Fake Party,4,16
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583608,The One with the Free Porn,4,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583552,The One with Rachel's New Dress,4,18
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583505,The One with All the Haste,4,19
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583513,The One with All the Wedding Dresses,4,20
+tt0108778,Friends,22 min,"Comedy, Romance",7.3,1994–2004,tt0583618,The One with the Invitation,4,21
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583659,The One with the Worst Best Man Ever,4,22
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583566,The One with Ross's Wedding,4,23
+tt0108778,Friends,22 min,"Comedy, Romance",9.2,1994–2004,tt0831991,The One with Ross's Wedding,4,24
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583437,The One After Ross Says Rachel,5,1
+tt0108778,Friends,22 min,"Comedy, Romance",9.0,1994–2004,tt0583507,The One with All the Kissing,5,2
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583440,The One Hundredth,5,3
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583467,The One Where Phoebe Hates PBS,5,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583622,The One with the Kips,5,5
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583660,The One with the Yeti,5,6
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583486,The One Where Ross Moves In,5,7
+tt0108778,Friends,22 min,"Comedy, Romance",9.2,1994–2004,tt0583652,The One with All the Thanksgivings,5,8
+tt0108778,Friends,22 min,"Comedy, Romance",9.1,1994–2004,tt0583563,The One with Ross's Sandwich,5,9
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583617,The One with the Inappropriate Sister,5,10
+tt0108778,Friends,22 min,"Comedy, Romance",9.1,1994–2004,tt0583511,The One with All the Resolutions,5,11
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583517,The One with Chandler's Work Laugh,5,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583523,The One with Joey's Bag,5,13
+tt0108778,Friends,22 min,"Comedy, Romance",9.7,1994–2004,tt0583452,The One Where Everybody Finds Out,5,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583610,The One with the Girl Who Hits Joey,5,15
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583593,The One with the Cop,5,16
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583551,The One with Rachel's Inadvertent Kiss,5,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.0,1994–2004,tt0583475,The One Where Rachel Smokes,5,18
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583479,The One Where Ross Can't Flirt,5,19
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583639,The One with the Ride Along,5,20
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583575,The One with the Ball,5,21
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583524,The One with Joey's Big Break,5,22
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583500,The One in Vegas: Part 1,5,23
+tt0108778,Friends,22 min,"Comedy, Romance",9.1,1994–2004,tt0831990,The One in Vegas: Part 2,5,24
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583438,The One After Vegas,6,1
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583560,The One with Ross's Denial,6,3
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583455,The One Where Joey Loses His Insurance,6,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583530,The One with Joey's Porsche,6,5
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0756481,The One on the Last Night,6,6
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583468,The One Where Phoebe Runs,6,7
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583559,The One with Ross' Teeth,6,8
+tt0108778,Friends,22 min,"Comedy, Romance",9.2,1994–2004,tt0583482,The One Where Ross Got High,6,9
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583641,The One with the Routine,6,10
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583572,The One with the Apothecary Table,6,11
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583621,The One with the Joke,6,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583555,The One with Rachel's Sister,6,13
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583502,The One Where Chandler Can't Cry,6,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583441,The One That Could Have Been,6,15
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583442,The One That Could Have Been,6,16
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583480,The One Where Ross Dates a Student,6,18
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583526,The One with Joey's Fridge,6,19
+tt0108778,Friends,22 min,"Comedy, Romance",7.4,1994–2004,tt0756482,The One with Mac and C.H.E.E.S.E.,6,20
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583485,The One Where Ross Meets Elizabeth's Dad,6,21
+tt0108778,Friends,22 min,"Comedy, Romance",9.0,1994–2004,tt0583466,The One Where Paul's the Man,6,22
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583640,The One with the Ring,6,23
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583636,The One with the Proposal,6,24
+tt0108778,Friends,22 min,"Comedy, Romance",9.3,1994–2004,tt0954401,The One with the Proposal,6,25
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0756483,The One with Monica's Thunder,7,1
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583546,The One with Rachel's Book,7,2
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583536,The One with Phoebe's Cookies,7,3
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583544,The One with Rachel's Assistant,7,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583601,The One with the Engagement Picture,7,5
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583632,The One with the Nap Partners,7,6
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583558,The One with Ross's Library Book,7,7
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583431,The One Where Chandler Doesn't Like Dogs,7,8
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583503,The One with All the Candy,7,9
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583613,The One with the Holiday Armadillo,7,10
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583504,The One with All the Cheesecakes,7,11
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583491,The One Where They're Up All Night,7,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583478,The One Where Rosita Dies,7,13
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583489,The One Where They All Turn Thirty,7,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583528,The One with Joey's New Brain,7,15
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583655,The One with the Truth About London,7,16
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583589,The One with the Cheap Wedding Dress,7,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583522,The One with Joey's Award,7,18
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583556,The One with Ross and Monica's Cousin,7,19
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583545,The One with Rachel's Big Kiss,7,20
+tt0108778,Friends,22 min,"Comedy, Romance",7.5,1994–2004,tt0756484,The One with the Vows,7,21
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583516,The One with Chandler's Dad,7,22
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583531,The One with Monica and Chandler's Wedding: Part 1,7,23
+tt0108778,Friends,22 min,"Comedy, Romance",9.2,1994–2004,tt0583532,The One with Monica and Chandler's Wedding: Part 2,7,24
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583435,The One After I Do,8,1
+tt0108778,Friends,22 min,"Comedy, Romance",9.1,1994–2004,tt0583638,The One with the Red Sweater,8,2
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583476,The One Where Rachel Tells...,8,3
+tt0108778,Friends,22 min,"Comedy, Romance",9.3,1994–2004,tt0583658,The One with the Videotape,8,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583548,The One with Rachel's Date,8,5
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583612,The One with the Halloween Party,8,6
+tt0108778,Friends,22 min,"Comedy, Romance",8.0,1994–2004,tt0583648,The One with the Stain,8,7
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583650,The One with the Stripper,8,8
+tt0108778,Friends,22 min,"Comedy, Romance",9.3,1994–2004,tt0583642,The One with the Rumor,8,9
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583533,The One with Monica's Boots,8,10
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583594,The One with Ross's Step Forward,8,11
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583454,The One Where Joey Dates Rachel,8,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583446,The One Where Chandler Takes a Bath,8,13
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583644,The One with the Secret Closet,8,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583578,The One with the Birthing Video,8,15
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583458,The One Where Joey Tells Rachel,8,16
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583651,The One with the Tea Leaves,8,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583499,The One in Massapequa,8,18
+tt0108778,Friends,22 min,"Comedy, Romance",7.5,1994–2004,tt0583527,The One with Joey's Interview,8,19
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583573,The One with the Baby Shower,8,20
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583592,The One with the Cooking Class,8,21
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583473,The One Where Rachel Is Late,8,22
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583471,The One Where Rachel Has a Baby: Part 1,8,23
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583472,The One Where Rachel Has a Baby: Part 2,8,24
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583463,The One Where No One Proposes,9,1
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583450,The One Where Emma Cries,9,2
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583633,The One with the Pediatrician,9,3
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583645,The One with the Sharks,9,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583535,The One with Phoebe's Birthday Dinner,9,5
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583627,The One with the Male Nanny,9,6
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583561,The One with Ross's Inappropriate Song,9,7
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583553,The One with Rachel's Other Sister,9,8
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583554,The One with Rachel's Phone Number,9,9
+tt0108778,Friends,22 min,"Comedy, Romance",7.5,1994–2004,tt0583518,The One with Christmas in Tulsa,9,10
+tt0108778,Friends,22 min,"Comedy, Romance",8.1,1994–2004,tt0583470,The One Where Rachel Goes Back to Work,9,11
+tt0108778,Friends,22 min,"Comedy, Romance",8.0,1994–2004,tt0583540,The One with Phoebe's Rats,9,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583460,The One Where Monica Sings,9,13
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583580,The One with the Blind Dates,9,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.4,1994–2004,tt0583631,The One with the Mugging,9,15
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583581,The One with the Boob Job,9,16
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583628,The One with the Memorial Service,9,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583626,The One with the Lottery,9,18
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583549,The One with Rachel's Dream,9,19
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583646,The One with the Soap Opera Party,9,20
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583605,The One with the Fertility Test,9,21
+tt0108778,Friends,22 min,"Comedy, Romance",7.9,1994–2004,tt0583597,The One with the Donor,9,22
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583497,The One in Barbados,9,23
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583498,The One in Barbados,9,24
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583436,The One After Joey and Rachel Kiss,10,1
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583484,The One Where Ross Is Fine,10,2
+tt0108778,Friends,22 min,"Comedy, Romance",8.8,1994–2004,tt0583564,The One with Ross's Tan,10,3
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583586,The One with the Cake,10,4
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583477,The One Where Rachel's Sister Babysits,10,5
+tt0108778,Friends,22 min,"Comedy, Romance",8.2,1994–2004,tt0583557,The One with Ross' Grant,10,6
+tt0108778,Friends,22 min,"Comedy, Romance",8.3,1994–2004,tt0583614,The One with the Home Study,10,7
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583623,The One with the Late Thanksgiving,10,8
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583432,The One with the Birth Mother,10,9
+tt0108778,Friends,22 min,"Comedy, Romance",8.0,1994–2004,tt0583445,The One Where Chandler Gets Caught,10,10
+tt0108778,Friends,22 min,"Comedy, Romance",9.0,1994–2004,tt0583494,The One Where the Stripper Cries,10,11
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583542,The One with Phoebe's Wedding,10,12
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583457,The One Where Joey Speaks French,10,13
+tt0108778,Friends,22 min,"Comedy, Romance",8.6,1994–2004,tt0583543,The One with Princess Consuela,10,14
+tt0108778,Friends,22 min,"Comedy, Romance",8.5,1994–2004,tt0583451,The One Where Estelle Dies,10,15
+tt0108778,Friends,22 min,"Comedy, Romance",8.9,1994–2004,tt0583550,The One with Rachel's Going Away Party,10,16
+tt0108778,Friends,22 min,"Comedy, Romance",9.5,1994–2004,tt0583433,The Last One: Part 1,10,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583508,The One with All the Other Ones: Part 1,10,17
+tt0108778,Friends,22 min,"Comedy, Romance",8.7,1994–2004,tt0583509,The One with All the Other Ones: Part 2,10,18
+tt0108778,Friends,22 min,"Comedy, Romance",9.7,1994–2004,tt0583434,The Last One: Part 2,10,18
+tt0770828,Man of Steel,143 min,"Action, Adventure, Sci-Fi",7.0,2013,,,,
+tt6751668,Parasite,132 min,"Comedy, Drama, Thriller",8.6,2019,,,,
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",9.1,2010–,tt1665071,A Study in Pink,1,1
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",8.1,2010–,tt1664529,The Blind Banker,1,2
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",9.1,2010–,tt1664530,The Great Game,1,3
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",9.5,2010–,tt1942612,A Scandal in Belgravia,2,1
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",8.4,2010–,tt1942613,The Hounds of Baskerville,2,2
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",8.6,2010–,tt3381878,Many Happy Returns,3,0
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",9.0,2010–,tt2189771,The Empty Hearse,3,1
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",9.0,2010–,tt2781042,The Sign of Three,3,2
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",9.3,2010–,tt2781046,His Last Vow,3,3
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",8.2,2010–,tt3845232,The Abominable Bride,4,0
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",7.6,2010–,tt3538760,The Six Thatchers,4,1
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",9.2,2010–,tt3845888,The Lying Detective,4,2
+tt1475582,Sherlock,88 min,"Crime, Drama, Mystery, Thriller",8.3,2010–,tt3845892,The Final Problem,4,3
+tt0054215,Psycho,109 min,"Horror, Mystery, Thriller",8.5,1960,,,,
+tt5727208,Uncut Gems,135 min,"Crime, Drama, Thriller",7.5,2019,,,,
+tt7984734,The Lighthouse,109 min,"Drama, Fantasy, Horror, Mystery",7.6,2019,,,,
