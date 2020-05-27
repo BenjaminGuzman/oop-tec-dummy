@@ -53,7 +53,7 @@ BEGIN
         SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail WHERE rating >= episode_rating_param ORDER BY rating;
     END IF;
 END//
-SELECT * FROM Movie_Detail WHERE id = 17136; # 8.3
+
 # UPDATES
 DROP PROCEDURE IF EXISTS updateMovieRating;
 CREATE PROCEDURE updateMovieRating(

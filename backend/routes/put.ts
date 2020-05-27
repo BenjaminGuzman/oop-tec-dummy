@@ -8,7 +8,7 @@ const ajv = new Ajv();
 
 const validateVideoUpdate = ajv.compile({
     type: "object",
-    required: ["type_of_content", "new_rating"],
+    required: ["type_of_content", "id", "new_rating"],
     properties: {
         type_of_content: {
             type: "string",

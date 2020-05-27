@@ -1,0 +1,162 @@
+\documentclass{article}
+
+\usepackage[margin=1cm]{geometry}
+\newcommand{\dbtable}{\subsection}
+\newcommand{\mono}{\texttt}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\colorlet{punct}{red!60!black}
+\definecolor{background}{HTML}{EEEEEE}
+\definecolor{delim}{RGB}{20,105,176}
+\colorlet{numb}{magenta!60!black}
+
+\lstdefinelanguage{json}{
+	basicstyle=\normalfont\ttfamily,
+	numbers=left,
+	numberstyle=\scriptsize,
+	stepnumber=1,
+	numbersep=8pt,
+	showstringspaces=false,
+	breaklines=true,
+	frame=lines,
+	backgroundcolor=\color{background},
+	literate=
+	*{0}{{{\color{numb}0}}}{1}
+	{1}{{{\color{numb}1}}}{1}
+	{2}{{{\color{numb}2}}}{1}
+	{3}{{{\color{numb}3}}}{1}
+	{4}{{{\color{numb}4}}}{1}
+	{5}{{{\color{numb}5}}}{1}
+	{6}{{{\color{numb}6}}}{1}
+	{7}{{{\color{numb}7}}}{1}
+	{8}{{{\color{numb}8}}}{1}
+	{9}{{{\color{numb}9}}}{1}
+	{:}{{{\color{punct}{:}}}}{1}
+	{,}{{{\color{punct}{,}}}}{1}
+	{\{}{{{\color{delim}{\{}}}}{1}
+	{\}}{{{\color{delim}{\}}}}}{1}
+	{[}{{{\color{delim}{[}}}}{1}
+	{]}{{{\color{delim}{]}}}}{1},
+}
+
+\begin{document}
+	All the endpoints can return status codes \mono{4XX}, \mono{5XX}, non \mono{20X} status codes will have no extra information, just the code. The following documentation for the endpoints are for the basic or alternative flows.	
+	
+	\section{GET endpoints}	
+	\subsection{/genres}
+	
+	Query all genres registered in the database
+	
+	\subsubsection{Parameters}
+	NONE
+	
+	\subsubsection{Response}
+	A \mono{JSON} with the following structure:
+	
+\begin{lstlisting}[language=json]
+{
+	"genres": Array<{
+		"id": number,
+		"genre": string
+	}>
+}
+\end{lstlisting}
+	
+
+\subsection{/media}
+Get some media, movies, episodes or both.
+
+\subsubsection{Parameters}
+A \mono{JSON} with the following structure
+
+\begin{lstlisting}[language=json]
+{
+	type_of_content: string, //required, enum: ["movie", "episode", "video"]
+	min_rating: number,
+	genre: number
+}
+\end{lstlisting}
+
+If \mono{min\_rating} or \mono{genre} are undefined, default values are 0.
+
+\subsubsection{Response}
+A \mono{JSON} with the following structure
+
+\begin{lstlisting}[language=json]
+{
+	"movies": Array<{
+		"id": number,
+		"rating": number,
+		"duration": number,
+		"year": number,
+		"name": string,
+		"cover": string | null
+	}>,
+	"episodes": Array<{
+		"id": number,
+		"serie_id": number,
+		"n_episode": number,
+		"n_season": number,
+		"rating": number,
+		"duration": number,
+		"name": string,
+		"cover": string | null
+	}>
+}
+\end{lstlisting}
+
+If only movies is requested, then the property "episodes" will not appear, and vice versa, if both are requested both will appear.
+
+\subsection{/episodes}
+
+Query all the episodes of a given serie
+
+\subsubsection{Parameters}
+A \mono{JSON} with the following structure
+
+\begin{lstlisting}[language=json]
+{
+	"serie_id": number
+}
+\end{lstlisting}
+
+\subsubsection{Response}
+
+\begin{lstlisting}[language=json]
+{
+	"episodes": Array<{
+		"id": number,
+		"serie_id": number,
+		"n_episode": number,
+		"n_season": number,
+		"rating": number,
+		"duration": number,
+		"name": string,
+		"cover": string | null
+	}>
+}
+\end{lstlisting}
+
+\section{PUT endpoints}
+
+\subsection{/media-rating}
+
+Query all the episodes of a given serie
+
+\subsubsection{Parameters}
+A \mono{JSON} with the following structure
+
+\begin{lstlisting}[language=json]
+{
+	"type_of_content": string, //required, enum: ["movie", "episode"]
+	"id": number, // required
+	"new_rating": number // required
+}
+\end{lstlisting}
+
+\subsubsection{Response}
+NONE
+
+\end{document}
