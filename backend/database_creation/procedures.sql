@@ -18,9 +18,15 @@ CREATE PROCEDURE selectSerieEpisodes(
 )
 BEGIN
     IF serie_id_param <> 0 THEN
-        SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail WHERE serie_id = serie_id_param;
+        SELECT Episode_Detail.id, serie_id, SD.name AS serie_name, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
+            INNER JOIN Serie_Detail SD on Episode_Detail.serie_id = SD.id
+            WHERE serie_id = serie_id_param ORDER BY rating DESC;
+        #SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail WHERE serie_id = serie_id_param;
     ELSE
-        SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail;
+        SELECT Episode_Detail.id, serie_id, SD.name AS serie_name, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
+            INNER JOIN Serie_Detail SD on Episode_Detail.serie_id = SD.id
+            ORDER BY rating DESC;
+        #SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail;
     END IF;
 
 END//
@@ -61,11 +67,13 @@ CREATE PROCEDURE selectEpisodesByRatingAndGenre(
 )
 BEGIN
     IF genre_id_param <> 0 THEN
-        SELECT Episode_Detail.id, Episode_Detail.serie_id, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
+        SELECT Episode_Detail.id, Episode_Detail.serie_id, SD.name AS serie_name, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
             INNER JOIN Serie_Detail SD ON Episode_Detail.serie_id = SD.id AND Episode_Detail.rating >= episode_rating_param
             INNER JOIN SerieGenres_Master SGM ON SGM.serie_id = SD.id AND SGM.genre_id = genre_id_param ORDER BY rating DESC;
     ELSE
-        SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail WHERE rating >= episode_rating_param ORDER BY rating DESC;
+        SELECT Episode_Detail.id, serie_id, SD.name AS serie_name, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
+            INNER JOIN Serie_Detail SD on Episode_Detail.serie_id = SD.id
+            WHERE Episode_Detail.rating >= episode_rating_param ORDER BY rating DESC;
     END IF;
 END//
 
@@ -77,11 +85,13 @@ CREATE PROCEDURE selectEpisodesByRatingAndGenreLike(
 )
 BEGIN
     IF genre_id_param <> 0 THEN
-        SELECT Episode_Detail.id, Episode_Detail.serie_id, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
+        SELECT Episode_Detail.id, Episode_Detail.serie_id, SD.name AS serie_name, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
             INNER JOIN Serie_Detail SD ON Episode_Detail.serie_id = SD.id AND Episode_Detail.rating >= episode_rating_param
             INNER JOIN SerieGenres_Master SGM ON SGM.serie_id = SD.id AND SGM.genre_id = genre_id_param AND Episode_Detail.name LIKE search_param ORDER BY rating DESC;
     ELSE
-        SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail WHERE rating >= episode_rating_param AND name LIKE search_param ORDER BY rating DESC;
+        SELECT Episode_Detail.id, serie_id, SD.name AS serie_name, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
+            INNER JOIN Serie_Detail SD on Episode_Detail.serie_id = SD.id
+            WHERE Episode_Detail.rating >= episode_rating_param AND Episode_Detail.name LIKE search_param ORDER BY rating DESC;
     END IF;
 END//
 

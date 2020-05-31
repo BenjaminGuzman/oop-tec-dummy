@@ -55,10 +55,12 @@ class Request(threading.Thread):
                 })
             else:
                 req = request_fn(self.__url_string)
-        except Exception:
+        except Exception as e:
             lock.acquire()
             self.__status_queue.put("error")
             lock.release()
+            print("The following error occurred while making a request")
+            print(e)
             return
 
         lock.acquire()
@@ -69,6 +71,7 @@ class Request(threading.Thread):
         else:
             try:
                 self.__status_queue.put("ok")
+
                 self.__status_queue.put(req.json())
             except Exception:
                 self.__status_queue.put("error")

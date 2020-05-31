@@ -1,4 +1,5 @@
 import dotenv from "dotenv";
+import morgan from "morgan";
 dotenv.config();
 
 import express from "express";
@@ -12,6 +13,7 @@ const PORT = process.env.PORT || 8080;
 const app = express();
 
 app.use(helmet());
+app.use(morgan("combined"));
 app.use(bodyParser.json());
 
 // app.get('/', getRouter);

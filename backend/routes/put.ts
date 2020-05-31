@@ -36,7 +36,7 @@ router.put("/media-rating", validationMiddleware(validateVideoUpdate), async (re
 
     const everything_ok = await updateFunction(req.body.id, req.body.new_rating);
     if (everything_ok)
-        return res.status(200).end();
+        return res.send();
 
     return res.status(500).end();
 });

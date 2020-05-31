@@ -1,5 +1,8 @@
 from gui.Application import Application
 
+# TODO: calificar un video
+# TODO: mostrar episodios de una serie
+
 if __name__ == '__main__':
     app = Application()
     app.init_components()

@@ -23,6 +23,7 @@ class ScrollBarPanel(Frame, GUIComponent):
         self.__curr_items_obj = [Dummy(), Dummy(), Dummy(), Dummy(), Dummy()]
         self.__prev_idx_show = -1
         self.__next_idx_show = 0
+        self.__args_cls = None
 
         self.__items_class = None
 
@@ -53,11 +54,13 @@ class ScrollBarPanel(Frame, GUIComponent):
 
     def show_message(self):
         if self.__message_hidden:
-            self.__default_label.pack()
+            self.__default_label["text"] = self.__default_text
+            self.__message_hidden = False
 
     def hide_message(self):
         if not self.__message_hidden:
-            self.__default_label.pack_forget()
+            self.__default_label["text"] = ''
+            self.__message_hidden = True
 
     def message_reset(self):
         self.__default_label["text"] = self.__default_text
@@ -70,10 +73,13 @@ class ScrollBarPanel(Frame, GUIComponent):
         self.__pagination_control.reset()
         self.__prev_idx_show = -1
         self.__next_idx_show = 0
+        for obj in self.__curr_items_obj:
+            obj.destroy()
 
-    def add_items(self, cls, results):
+    def add_items(self, cls, results, *args):
         self.__items = results
         self.__items_class = cls # cls is Media type
+        self.__args_cls = args
         self.__pagination_control.n_max_pages = ceil(len(results) / ScrollBarPanel.__ITEMS_PER_PAGE)
         self.__pagination_control.set_buttons_status(first_check=True)
         self.__display_page()
@@ -108,7 +114,7 @@ class ScrollBarPanel(Frame, GUIComponent):
 
         j = 0
         for i in range_idxs:
-            obj = self.__items_class(self.__frame, self.__items[i])
+            obj = self.__items_class(self.__frame, self.__items[i], self.__args_cls)
             obj.init_components()
             obj.pack(side=TOP, fill=BOTH, expand=True)
             self.__curr_items_obj[j] = obj
