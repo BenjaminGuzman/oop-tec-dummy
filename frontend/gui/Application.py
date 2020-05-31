@@ -1,9 +1,11 @@
-from tkinter import Tk
+from tkinter import Tk, TOP, X, Y, BOTH
 from .GUIComponent import GUIComponent
 from .SearchBar import SearchBar
 from queue import Queue
-from request_handlers.Request import Request
-from json import loads as json_loads
+from request_handlers import Request
+from .Title import Title
+from .SearchResults import SearchResults
+from .Media import Media
 
 
 class Application(Tk, GUIComponent):
@@ -36,7 +38,7 @@ class Application(Tk, GUIComponent):
                     print("O, que el servidor esté prendido y a la escucha")
                     break
                 elif tmp_response == "ok":
-                    print("Datos cargados, continuando")
+                    print("Géneros obtenidos, datos cargados, continuando\n")
                     break
 
         if bad:
@@ -51,8 +53,25 @@ class Application(Tk, GUIComponent):
     def init_components(self):
         self.__request_genres()
 
+        title = Title(self)
+        title.init_components()
+        title.pack(side=TOP, fill=X)
+
         search_bar = SearchBar(self, self.__genres)
         search_bar.init_components()
-        search_bar.grid(row=0, column=0)
+        search_bar.pack(side=TOP, fill=X)
 
-        self.grid_columnconfigure(0, weight=1)
+        search_results = SearchResults(self)
+        search_results.init_components()
+        search_results.pack(side=TOP, fill=BOTH, expand=True)
+
+        search_bar.search_results = search_results
+
+        for row in range(1):
+            self.grid_rowconfigure(row, weight=1)
+        self.grid_rowconfigure(2, weight=15)
+
+        for col in range(0 + 1):
+            self.grid_columnconfigure(col, weight=1)
+
+        Media.init_defaults()

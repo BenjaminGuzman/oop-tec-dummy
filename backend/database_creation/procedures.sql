@@ -33,9 +33,24 @@ CREATE PROCEDURE selectMoviesByRatingAndGenre(
 BEGIN
     IF genre_id_param <> 0 THEN
         SELECT id, rating, duration, year, name, cover FROM Movie_Detail
-            INNER JOIN MovieGenres_Master MGM ON Movie_Detail.id = MGM.movie_id AND MGM.genre_id = genre_id_param AND Movie_Detail.rating >= movie_rating_param ORDER BY rating;
+            INNER JOIN MovieGenres_Master MGM ON Movie_Detail.id = MGM.movie_id AND MGM.genre_id = genre_id_param AND Movie_Detail.rating >= movie_rating_param ORDER BY rating DESC;
     ELSE
-        SELECT id, rating, duration, year, name, cover FROM Movie_Detail WHERE rating >= movie_rating_param ORDER BY rating;
+        SELECT id, rating, duration, year, name, cover FROM Movie_Detail WHERE rating >= movie_rating_param ORDER BY rating DESC;
+    END IF;
+END//
+
+DROP PROCEDURE IF EXISTS selectMoviesByRatingAndGenreLike;
+CREATE PROCEDURE selectMoviesByRatingAndGenreLike(
+    IN movie_rating_param DECIMAL(3, 1),
+    IN genre_id_param TINYINT UNSIGNED,
+    IN search_param VARCHAR(100)
+)
+BEGIN
+    IF genre_id_param <> 0 THEN
+        SELECT id, rating, duration, year, name, cover FROM Movie_Detail
+            INNER JOIN MovieGenres_Master MGM ON Movie_Detail.id = MGM.movie_id AND MGM.genre_id = genre_id_param AND Movie_Detail.rating >= movie_rating_param AND Movie_Detail.name LIKE search_param ORDER BY rating DESC;
+    ELSE
+        SELECT id, rating, duration, year, name, cover FROM Movie_Detail WHERE rating >= movie_rating_param AND name LIKE search_param ORDER BY rating DESC;
     END IF;
 END//
 
@@ -48,9 +63,25 @@ BEGIN
     IF genre_id_param <> 0 THEN
         SELECT Episode_Detail.id, Episode_Detail.serie_id, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
             INNER JOIN Serie_Detail SD ON Episode_Detail.serie_id = SD.id AND Episode_Detail.rating >= episode_rating_param
-            INNER JOIN SerieGenres_Master SGM ON SGM.serie_id = SD.id AND SGM.genre_id = genre_id_param ORDER BY rating;
+            INNER JOIN SerieGenres_Master SGM ON SGM.serie_id = SD.id AND SGM.genre_id = genre_id_param ORDER BY rating DESC;
     ELSE
-        SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail WHERE rating >= episode_rating_param ORDER BY rating;
+        SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail WHERE rating >= episode_rating_param ORDER BY rating DESC;
+    END IF;
+END//
+
+DROP PROCEDURE IF EXISTS selectEpisodesByRatingAndGenreLike;
+CREATE PROCEDURE selectEpisodesByRatingAndGenreLike(
+    IN episode_rating_param DECIMAL(3, 1),
+    IN genre_id_param TINYINT UNSIGNED,
+    IN search_param VARCHAR(100)
+)
+BEGIN
+    IF genre_id_param <> 0 THEN
+        SELECT Episode_Detail.id, Episode_Detail.serie_id, n_episode, n_season, Episode_Detail.rating, duration, Episode_Detail.name, Episode_Detail.cover FROM Episode_Detail
+            INNER JOIN Serie_Detail SD ON Episode_Detail.serie_id = SD.id AND Episode_Detail.rating >= episode_rating_param
+            INNER JOIN SerieGenres_Master SGM ON SGM.serie_id = SD.id AND SGM.genre_id = genre_id_param AND Episode_Detail.name LIKE search_param ORDER BY rating DESC;
+    ELSE
+        SELECT id, serie_id, n_episode, n_season, rating, duration, name, cover FROM Episode_Detail WHERE rating >= episode_rating_param AND name LIKE search_param ORDER BY rating DESC;
     END IF;
 END//
 

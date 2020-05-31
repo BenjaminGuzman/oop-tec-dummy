@@ -20,3 +20,15 @@ class IncorrectRequestBody(ValueError):
 
     def __repr__(self):
         return "IncorrectRequestBody({})".format(self.__body)
+
+class MissingProperty(Exception):
+    def __init__(self, missing_property, that):
+        super().__init__()
+        self.__missing_property = missing_property
+        self.__that = that
+
+    def __str__(self):
+        return "The \"{}\" property on the object \"{}\" is missing, did you forgot to call a function?".format(self.__missing_property, self.__that)
+
+    def __repr__(self):
+        return "MissingProperty({}, {})".format(self.__missing_property, self.__that)

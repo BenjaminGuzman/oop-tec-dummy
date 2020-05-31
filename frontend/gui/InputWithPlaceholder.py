@@ -18,6 +18,10 @@ class InputWithPlaceholder(Entry, GUIComponent):
 
         self.__put_placeholder()
 
+    @property
+    def placeholder_is_active(self):
+        return self.__placeholder_active
+
     def init_components(self):
         self.bind("<FocusIn>", self.__on_focus_in)
         self.bind("<FocusOut>", self.__on_focus_out)

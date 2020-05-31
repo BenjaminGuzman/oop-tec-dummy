@@ -16,6 +16,10 @@ const validateVideoQuery = ajv.compile({
             type: "string",
             enum: ["movie", "episode", "video"] // video is either movie and episode
         },
+        search: {
+            type: "string",
+            maxLength: 100
+        },
         min_rating: { // default 0
             type: "number",
             maximum: 10,
@@ -65,15 +69,15 @@ router.get("/media", validationMiddleware(validateVideoQuery), async (req: Reque
     const content_type = req.body.type_of_content;
     if (content_type === "movie")
         results = {
-            movies: await select.moviesWithRatingAndGenre(req.body.min_rating, req.body.genre)
+            movies: await select.moviesWithRatingGenreLike(req.body.min_rating, req.body.genre, req.body.search)
         };
     else if (content_type === "episode")
         results = {
-            episodes: await select.episodesWithRatingAndGenre(req.body.min_rating, req.body.genre)
+            episodes: await select.episodesWithRatingGenreLike(req.body.min_rating, req.body.genre, req.body.search)
         };
     else {
-        const movie_promise = select.moviesWithRatingAndGenre(req.body.min_rating, req.body.genre);
-        const episodes_promise = select.episodesWithRatingAndGenre(req.body.min_rating, req.body.genre);
+        const movie_promise = select.moviesWithRatingGenreLike(req.body.min_rating, req.body.genre, req.body.search);
+        const episodes_promise = select.episodesWithRatingGenreLike(req.body.min_rating, req.body.genre, req.body.search);
         const values = await Promise.all([movie_promise, episodes_promise]);
         results = {
             movies: values[0],

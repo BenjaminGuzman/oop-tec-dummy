@@ -17,6 +17,7 @@ const pool = createPool({
  * should be ALREADY ESCAPED
  */
 const executeProcedure = (sql_proc_string: string):Promise<object | null> => {
+    console.log(sql_proc_string);
     return new Promise<object | null>(resolve => {
         pool.getConnection((err, conn) => {
             if (err) {
@@ -48,8 +49,12 @@ const select = {
         }
         return result;
     },
-    moviesWithRatingAndGenre: async (rating:number, genre:number) => {
-        const sql_query = sqlEscape("CALL selectMoviesByRatingAndGenre(?, ?)", [rating, genre]);
+    moviesWithRatingGenreLike: async (rating:number, genre:number, search:string) => {
+        let sql_query:string;
+        if (!search)
+            sql_query = sqlEscape("CALL selectMoviesByRatingAndGenre(?, ?)", [rating, genre]);
+        else
+            sql_query = sqlEscape("CALL selectMoviesByRatingAndGenreLike(?, ?, ?)", [rating, genre, `${search}%`]);
 
         let result: object | null;
         try {
@@ -59,8 +64,12 @@ const select = {
         }
         return result;
     },
-    episodesWithRatingAndGenre: async (rating:number, genre:number) => {
-        const sql_query = sqlEscape("CALL selectEpisodesByRatingAndGenre(?, ?)", [rating, genre]);
+    episodesWithRatingGenreLike: async (rating:number, genre:number, search:string) => {
+        let sql_query:string;
+        if (!search)
+            sql_query = sqlEscape("CALL selectEpisodesByRatingAndGenre(?, ?)", [rating, genre]);
+        else
+            sql_query = sqlEscape("CALL selectEpisodesByRatingAndGenreLike(?, ?, ?)", [rating, genre, `${search}%`]);
 
         let result: object | null;
         try {

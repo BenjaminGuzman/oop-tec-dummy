@@ -47,13 +47,19 @@ class Request(threading.Thread):
         self.__status_queue.put("sent")
         lock.release()
         # since status queue will be in heap, it'll be ok to modify it here
-        req = None
-        if self.__body is not None:
-            req = request_fn(self.__url_string, data=self.__body, headers={
-                "Content-Type": "application/json; charset=utf-8"
-            })
-        else:
-            req = request_fn(self.__url_string)
+        try:
+            req = None
+            if self.__body is not None:
+                req = request_fn(self.__url_string, data=self.__body, headers={
+                    "Content-Type": "application/json; charset=utf-8"
+                })
+            else:
+                req = request_fn(self.__url_string)
+        except Exception:
+            lock.acquire()
+            self.__status_queue.put("error")
+            lock.release()
+            return
 
         lock.acquire()
         self.__status_queue.put("received")

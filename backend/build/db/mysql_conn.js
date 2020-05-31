@@ -17,6 +17,7 @@ const pool = mysql_1.createPool({
  * should be ALREADY ESCAPED
  */
 const executeProcedure = (sql_proc_string) => {
+    console.log(sql_proc_string);
     return new Promise(resolve => {
         pool.getConnection((err, conn) => {
             if (err) {
@@ -47,8 +48,12 @@ const select = {
         }
         return result;
     },
-    moviesWithRatingAndGenre: async (rating, genre) => {
-        const sql_query = mysql_1.format("CALL selectMoviesByRatingAndGenre(?, ?)", [rating, genre]);
+    moviesWithRatingGenreLike: async (rating, genre, search) => {
+        let sql_query;
+        if (!search)
+            sql_query = mysql_1.format("CALL selectMoviesByRatingAndGenre(?, ?)", [rating, genre]);
+        else
+            sql_query = mysql_1.format("CALL selectMoviesByRatingAndGenreLike(?, ?, ?)", [rating, genre, `${search}%`]);
         let result;
         try {
             result = await executeProcedure(sql_query);
@@ -58,8 +63,12 @@ const select = {
         }
         return result;
     },
-    episodesWithRatingAndGenre: async (rating, genre) => {
-        const sql_query = mysql_1.format("CALL selectEpisodesByRatingAndGenre(?, ?)", [rating, genre]);
+    episodesWithRatingGenreLike: async (rating, genre, search) => {
+        let sql_query;
+        if (!search)
+            sql_query = mysql_1.format("CALL selectEpisodesByRatingAndGenre(?, ?)", [rating, genre]);
+        else
+            sql_query = mysql_1.format("CALL selectEpisodesByRatingAndGenreLike(?, ?, ?)", [rating, genre, `${search}%`]);
         let result;
         try {
             result = await executeProcedure(sql_query);
