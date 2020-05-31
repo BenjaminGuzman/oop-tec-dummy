@@ -116,7 +116,7 @@ class ScrollBarPanel(Frame, GUIComponent):
         for i in range_idxs:
             obj = self.__items_class(self.__frame, self.__items[i], self.__args_cls)
             obj.init_components()
-            obj.pack(side=TOP, fill=BOTH, expand=True)
+            obj.pack(fill=BOTH, expand=True)
             self.__curr_items_obj[j] = obj
             j += 1
 

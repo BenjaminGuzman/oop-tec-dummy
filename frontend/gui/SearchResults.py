@@ -29,6 +29,10 @@ class SearchResults(Frame, GUIComponent):
         self.__movies_panel.pack(side=LEFT, fill=BOTH, expand=True)
         self.__episodes_panel.pack(side=RIGHT, fill=BOTH, expand=True)
 
+    def clear_all(self):
+        self.__movies_panel.reset()
+        self.__episodes_panel.reset()
+
     def insert_episode_results(self, results):
         self.__insert_results(False, results)
 
@@ -53,7 +57,7 @@ class SearchResults(Frame, GUIComponent):
             panel.reset()
             return
         panel.hide_message()
-        panel.reset()
+        #panel.reset()
         panel.add_items(cls, results, callback_query_serie)
 
     @property

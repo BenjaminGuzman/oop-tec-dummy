@@ -74,12 +74,13 @@ A \mono{JSON} with the following structure
 \begin{lstlisting}[language=json]
 {
 	type_of_content: string, //required, enum: ["movie", "episode", "video"]
+	search: string,
 	min_rating: number,
 	genre: number
 }
 \end{lstlisting}
 
-If \mono{min\_rating} or \mono{genre} are undefined, default values are 0.
+If \mono{min\_rating} or \mono{genre} are undefined, default values are 0. If \mono{search} is undefined or simply '' or any value that in Javascript has a boolean value of \mono{false}, then, this field is ignored.
 
 \subsubsection{Response}
 A \mono{JSON} with the following structure
@@ -97,6 +98,7 @@ A \mono{JSON} with the following structure
 	"episodes": Array<{
 		"id": number,
 		"serie_id": number,
+		"serie_name": string,
 		"n_episode": number,
 		"n_season": number,
 		"rating": number,

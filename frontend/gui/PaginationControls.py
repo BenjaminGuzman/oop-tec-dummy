@@ -67,6 +67,7 @@ class PaginationControls(Frame, GUIComponent):
     def reset(self):
         self.__page = 0
         self.n_max_pages = 0
+        self.__page_label["text"] = 1
 
     @property
     def page(self):

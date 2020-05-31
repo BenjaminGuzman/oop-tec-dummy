@@ -99,6 +99,7 @@ class SearchBar(Frame, GUIComponent):
         search_serie_label.grid(row=3, column=0, **default_kwargs)
 
         self.__search_serie_input = InputWithPlaceholder(master=self, placeholder="ID de la serie \"tt#####\"", width=40)
+        self.__search_serie_input.init_components()
         self.__search_serie_input.grid(row=3, column=1, **default_kwargs)
 
         search_serie_button = Button(self, text="Buscar episodios", command=self.__on_click_search_episodes)
@@ -169,6 +170,7 @@ class SearchBar(Frame, GUIComponent):
         if self.__search_results is None:
             raise MissingProperty("search_results", self)
 
+        self.__search_results.clear_all()
         if media_choice == "movie":
             self.__show_response(response, "movies")
         elif media_choice == "episode":
@@ -231,6 +233,8 @@ class SearchBar(Frame, GUIComponent):
 
         if self.__search_results is None:
             raise MissingProperty("search_results", self)
+        self.__search_results.clear_all()
+
         response = {
             "movies": [],
             "episodes": response["episodes"]
