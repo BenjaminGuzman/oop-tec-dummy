@@ -467,7 +467,7 @@
 											"top": 109,
 											"width": 132.59619140625,
 											"height": 13,
-											"text": "-request_genres()",
+											"text": "-request_genres(): list",
 											"horizontalAlignment": 0
 										}
 									],
@@ -8606,7 +8606,18 @@
 										"$ref": "AAAAAAFyclaxEKIg+88="
 									},
 									"name": "request_genres",
-									"visibility": "private"
+									"visibility": "private",
+									"parameters": [
+										{
+											"_type": "UMLParameter",
+											"_id": "AAAAAAFyctqAI3swbS4=",
+											"_parent": {
+												"$ref": "AAAAAAFyclqgNqJTjak="
+											},
+											"type": "list",
+											"direction": "return"
+										}
+									]
 								}
 							]
 						},
