@@ -10,24 +10,24 @@ from .Media import Media
 
 class Application(Tk, GUIComponent):
     def __init__(self):
-        super().__init__(baseName="OOPTecDummy")
+        super().__init__()
 
-        self.__response_queue = Queue()
         self.__genres = []
 
     def __request_genres(self):
         if len(self.__genres) > 0:
             return self.__genres
 
-        request = Request(self.__response_queue, "genres")
+        status_queue = Queue()
+        request = Request(status_queue, "genres")
         print("Obteniendo los géneros disponibles de {}".format(request.url))
         request.start()
 
         bad = False
         tmp_response = None
         while True: # this will block the main thread I know, but is the easy solution
-            if not self.__response_queue.empty():
-                tmp_response = self.__response_queue.get()
+            if not status_queue.empty():
+                tmp_response = status_queue.get()
                 if tmp_response == "sent":
                     print("Cargando...")
                 elif tmp_response == "received":
@@ -45,7 +45,7 @@ class Application(Tk, GUIComponent):
             print("NOOOO, algo no salió bien, no se puede continuar")
             exit(1)
 
-        json_response = self.__response_queue.get()
+        json_response = status_queue.get()
         self.__genres = json_response["genres"] # the response contains: {genres: [array with genres]}
         return self.__genres
 

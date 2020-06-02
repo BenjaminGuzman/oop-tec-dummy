@@ -13,9 +13,9 @@ class Media(Frame, GUIComponent, ABC):
         cls.RATING_FONT = font.Font(family="Times New Roman", size=16, weight="bold")
 
         # No image for the moment, let's just choose a dummy image
-        cls._MOVIE_IMAGE = ImageTk.PhotoImage(Image.open("gui/dua.jpg"))
-        cls._EPISODE_IMAGE = ImageTk.PhotoImage(Image.open("gui/jester.png"))
-        cls._EDIT_IMAGE = ImageTk.PhotoImage(Image.open("gui/edit-w.png"))
+        cls.MOVIE_IMAGE = ImageTk.PhotoImage(Image.open("gui/dua.jpg"))
+        cls.EPISODE_IMAGE = ImageTk.PhotoImage(Image.open("gui/jester.png"))
+        cls.EDIT_IMAGE = ImageTk.PhotoImage(Image.open("gui/edit-w.png"))
 
     def __init__(self, master, properties, *args):
         super().__init__(master, borderwidth=2, relief="solid")
@@ -37,7 +37,7 @@ class Media(Frame, GUIComponent, ABC):
         # one with the basic info
         # one with the rating
 
-        cover_img = Media._MOVIE_IMAGE if cover_movie else Media._EPISODE_IMAGE
+        cover_img = Media.MOVIE_IMAGE if cover_movie else Media.EPISODE_IMAGE
 
         cover_label = Label(self, image=cover_img)
         cover_label.pack(side=LEFT)
@@ -47,7 +47,7 @@ class Media(Frame, GUIComponent, ABC):
         self._put_info("{} min.".format(self._props["duration"] / 60), row=1, column=0, sticky='w')
         self._info_panel.pack(side=LEFT)
 
-        edit_button = Button(self, image=Media._EDIT_IMAGE, background="black", command=self._on_click_edit)
+        edit_button = Button(self, image=Media.EDIT_IMAGE, background="black", command=self._on_click_edit)
         edit_button.pack(side=RIGHT, padx=5, pady=5)
 
         self.__rating_label = Label(self, text=self._props["rating"], font=Media.RATING_FONT)

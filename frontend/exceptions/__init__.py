@@ -21,6 +21,7 @@ class IncorrectRequestBody(ValueError):
     def __repr__(self):
         return "IncorrectRequestBody({})".format(self.__body)
 
+
 class MissingProperty(Exception):
     def __init__(self, missing_property, that):
         super().__init__()
