@@ -35,6 +35,9 @@ class InputWithPlaceholder(Entry, GUIComponent):
         self.bind("<FocusOut>", self.__on_focus_out)
 
     def __put_placeholder(self):
+        """
+        Inserts the placeholder and also changes the foreground color to differentiate it from normal text
+        """
         self.__placeholder_active = True
         self["fg"] = self.__placeholder_color
         self.insert(0, self.__placeholder)

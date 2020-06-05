@@ -13,8 +13,15 @@ class Movie(Media):
         super().init_components(cover_movie=True)
 
     def _on_click_edit(self):
+        """
+        Asks for the new rating of the movie and sends the update request to the server
+        """
         new_rating = simpledialog.askfloat("Calificar película", "Nueva calificación para {}:".format(self._props["name"]))
         if new_rating is None:  # None None is returned when the user clicks cancel
+            return
+
+        if new_rating < 0 or new_rating > 10:
+            messagebox.showerror("No válido", "El nuevo rating para {} debe estar entre 0 y 10".format(self._props["name"]))
             return
 
         payload = {

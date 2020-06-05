@@ -11,7 +11,7 @@ class ScrollBarPanel(Frame, GUIComponent):
         super().__init__(master, kwargs)
 
         self.__canvas = None # the canvas that will be inside this frame
-        self.__frame = None # the frame that will be embebed in the canvas
+        self.__frame = None # the frame that will be embedded in the canvas
 
         self.__scrollbar = None
         self.__default_text = default_text

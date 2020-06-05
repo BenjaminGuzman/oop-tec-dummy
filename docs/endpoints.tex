@@ -1,59 +1,16 @@
-\documentclass{article}
-
-\usepackage[margin=1cm]{geometry}
-\newcommand{\dbtable}{\subsection}
-\newcommand{\mono}{\texttt}
-
-\usepackage{listings}
-\usepackage{xcolor}
-
-\colorlet{punct}{red!60!black}
-\definecolor{background}{HTML}{EEEEEE}
-\definecolor{delim}{RGB}{20,105,176}
-\colorlet{numb}{magenta!60!black}
-
-\lstdefinelanguage{json}{
-	basicstyle=\normalfont\ttfamily,
-	numbers=left,
-	numberstyle=\scriptsize,
-	stepnumber=1,
-	numbersep=8pt,
-	showstringspaces=false,
-	breaklines=true,
-	frame=lines,
-	backgroundcolor=\color{background},
-	literate=
-	*{0}{{{\color{numb}0}}}{1}
-	{1}{{{\color{numb}1}}}{1}
-	{2}{{{\color{numb}2}}}{1}
-	{3}{{{\color{numb}3}}}{1}
-	{4}{{{\color{numb}4}}}{1}
-	{5}{{{\color{numb}5}}}{1}
-	{6}{{{\color{numb}6}}}{1}
-	{7}{{{\color{numb}7}}}{1}
-	{8}{{{\color{numb}8}}}{1}
-	{9}{{{\color{numb}9}}}{1}
-	{:}{{{\color{punct}{:}}}}{1}
-	{,}{{{\color{punct}{,}}}}{1}
-	{\{}{{{\color{delim}{\{}}}}{1}
-	{\}}{{{\color{delim}{\}}}}}{1}
-	{[}{{{\color{delim}{[}}}}{1}
-	{]}{{{\color{delim}{]}}}}{1},
-}
-
-\begin{document}
-	All the endpoints can return status codes \mono{4XX}, \mono{5XX}, non \mono{20X} status codes will have no extra information, just the code. The following documentation for the endpoints are for the basic or alternative flows.	
+\newpage
+Todos los endpoints que se tratarán a continuación pueden retornar status codes status codes \mono{4XX} o \mono{5XX}, los que sean \mono{20X} status codes no tendrán información extra, sólo el status code. La siguiente documentación para los endpoints aplica para el flujo básico.
 	
-	\section{GET endpoints}	
-	\subsection{/genres}
+\section{Apéndice: GET endpoints}	
+\subsection{/genres}
+
+Retorna todos los géneros registrados en la base de datos
 	
-	Query all genres registered in the database
+\subsubsection{Parameters}
+NONE
 	
-	\subsubsection{Parameters}
-	NONE
-	
-	\subsubsection{Response}
-	A \mono{JSON} with the following structure:
+\subsubsection{Response}
+Un \mono{JSON} con la siguiente estructura:
 	
 \begin{lstlisting}[language=json]
 {
@@ -66,10 +23,10 @@
 	
 
 \subsection{/media}
-Get some media, movies, episodes or both.
+Retorna información sobre un tipo de contenido, ya sea películas, episodios o ambos.
 
 \subsubsection{Parameters}
-A \mono{JSON} with the following structure
+Un \mono{JSON} con la siguiente estructura:
 
 \begin{lstlisting}[language=json]
 {
@@ -80,10 +37,11 @@ A \mono{JSON} with the following structure
 }
 \end{lstlisting}
 
-If \mono{min\_rating} or \mono{genre} are undefined, default values are 0. If \mono{search} is undefined or simply '' or any value that in Javascript has a boolean value of \mono{false}, then, this field is ignored.
+
+Si \mono{min\_rating} o \mono{genre} son \mono{undefined}, los valores default son 0. Si \mono{search} es \mono{undefined} o simplemente '' o cualquier otro valor que en Javascript tenga un valor booleano de \mono{false}, entonces, este campo es ignorado.
 
 \subsubsection{Response}
-A \mono{JSON} with the following structure
+Un \mono{JSON} con la siguiente estructura:
 
 \begin{lstlisting}[language=json]
 {
@@ -109,14 +67,13 @@ A \mono{JSON} with the following structure
 }
 \end{lstlisting}
 
-If only movies is requested, then the property "episodes" will not appear, and vice versa, if both are requested both will appear.
+Si solamente \mono{movies} es pedido, entonces la propiedad "episodes" no aparecerá y viceversa, si los dos son pedidos, entonces los dos aparecerán.
 
 \subsection{/episodes}
-
-Query all the episodes of a given serie
+Retorna todos los episodios de una determinada serie
 
 \subsubsection{Parameters}
-A \mono{JSON} with the following structure
+Un \mono{JSON} con la siguiente estructura:
 
 \begin{lstlisting}[language=json]
 {
@@ -141,14 +98,14 @@ A \mono{JSON} with the following structure
 }
 \end{lstlisting}
 
-\section{PUT endpoints}
+\section{Apéndice: PUT endpoints}
 
 \subsection{/media-rating}
 
-Query all the episodes of a given serie
+Cambia el rating de algún episodio o película según sea el caso
 
 \subsubsection{Parameters}
-A \mono{JSON} with the following structure
+Un \mono{JSON} con la siguiente estructura:
 
 \begin{lstlisting}[language=json]
 {
@@ -160,5 +117,3 @@ A \mono{JSON} with the following structure
 
 \subsubsection{Response}
 NONE
-
-\end{document}

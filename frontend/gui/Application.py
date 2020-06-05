@@ -15,6 +15,10 @@ class Application(Tk, GUIComponent):
         self.__genres = []
 
     def __request_genres(self):
+        """
+        Get genres from the server
+        :return: the list of genres
+        """
         if len(self.__genres) > 0:
             return self.__genres
 

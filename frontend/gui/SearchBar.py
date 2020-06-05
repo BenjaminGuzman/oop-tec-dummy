@@ -117,6 +117,10 @@ class SearchBar(Frame, GUIComponent):
             messagebox.showerror("Rating no válido", "El rating debe tener un formato de #.#, y debe estar entre 0 y 10")
             return
 
+        if len(search) > 100:
+            messagebox.showerror("Búsqueda muy larga", "Por favor limite su búsqueda a 100 caracteres")
+            return
+
         rating_choice = float(rating_choice)
 
         # Prepare payload

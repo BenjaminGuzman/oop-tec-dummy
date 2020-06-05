@@ -15,11 +15,11 @@ class Request(threading.Thread):
             raise UnsupportedHTTPMethod(method)
 
         if not isinstance(endpoint, str):
-            raise ValueError("The endpoint {} should be a string".format(endpoint))
+            raise TypeError("The endpoint {} should be a string".format(endpoint))
         if not isinstance(host, str):
-            raise ValueError("The host {} should be a string".format(host))
+            raise TypeError("The host {} should be a string".format(host))
         if not isinstance(status_queue, Queue):
-            raise ValueError("The status_queue {} should be an instance of Queue".format(status_queue))
+            raise TypeError("The status_queue {} should be an instance of Queue".format(status_queue))
 
         if body is not None and not isinstance(body, dict):
             raise IncorrectRequestBody(body)

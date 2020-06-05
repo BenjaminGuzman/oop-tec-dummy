@@ -27,8 +27,15 @@ class Episode(Media):
         show_all_episodes_button.pack(side=LEFT, padx=5, pady=5)
 
     def _on_click_edit(self):
+        """
+        Asks for the new rating of the episode and sends the update request to the server
+        """
         new_rating = simpledialog.askfloat("Calificar episodio", "Nueva calificación para {}:".format(self._props["name"]))
         if new_rating is None: # None None is returned when the user clicks cancel
+            return
+
+        if new_rating < 0 or new_rating > 10:
+            messagebox.showerror("No válido", "El nuevo rating para {} debe estar entre 0 y 10".format(self._props["name"]))
             return
 
         payload = {
@@ -61,4 +68,7 @@ class Episode(Media):
         super()._update_rating(new_rating)
 
     def __show_all_episodes(self):
+        """
+        Calls the callback cb_query_serie to see all the episodes from the serie
+        """
         self.__cb_query_serie(self._props["serie_id"])

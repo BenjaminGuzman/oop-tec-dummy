@@ -1,0 +1,29 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{2}{section.1}% 
+\contentsline {section}{\numberline {2}Arquitectura}{2}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Diagrama de clases}{2}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {2.1.1}Paquete: gui}{3}{subsubsection.2.1.1}% 
+\contentsline {subsubsection}{\numberline {2.1.2}Paquete: request\_handlers}{4}{subsubsection.2.1.2}% 
+\contentsline {subsubsection}{\numberline {2.1.3}Paquete: exceptions}{4}{subsubsection.2.1.3}% 
+\contentsline {section}{\numberline {3}Ejemplos de ejecuci\IeC {\'o}n}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Flujo b\IeC {\'a}sico}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Flujos de excepci\IeC {\'o}n}{8}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}Casos que har\IeC {\'\i }an que el proyecto dejar\IeC {\'a} de funcionar}{9}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Servicio del back-end no activo}{9}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Otros casos menores}{10}{subsection.4.2}% 
+\contentsline {section}{\numberline {5}Conclusi\IeC {\'o}n personal}{10}{section.5}% 
+\contentsline {section}{\numberline {6}Ap\IeC {\'e}ndice: GET endpoints}{11}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}/genres}{11}{subsection.6.1}% 
+\contentsline {subsubsection}{\numberline {6.1.1}Parameters}{11}{subsubsection.6.1.1}% 
+\contentsline {subsubsection}{\numberline {6.1.2}Response}{11}{subsubsection.6.1.2}% 
+\contentsline {subsection}{\numberline {6.2}/media}{11}{subsection.6.2}% 
+\contentsline {subsubsection}{\numberline {6.2.1}Parameters}{11}{subsubsection.6.2.1}% 
+\contentsline {subsubsection}{\numberline {6.2.2}Response}{11}{subsubsection.6.2.2}% 
+\contentsline {subsection}{\numberline {6.3}/episodes}{12}{subsection.6.3}% 
+\contentsline {subsubsection}{\numberline {6.3.1}Parameters}{12}{subsubsection.6.3.1}% 
+\contentsline {subsubsection}{\numberline {6.3.2}Response}{12}{subsubsection.6.3.2}% 
+\contentsline {section}{\numberline {7}Ap\IeC {\'e}ndice: PUT endpoints}{12}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}/media-rating}{12}{subsection.7.1}% 
+\contentsline {subsubsection}{\numberline {7.1.1}Parameters}{12}{subsubsection.7.1.1}% 
+\contentsline {subsubsection}{\numberline {7.1.2}Response}{12}{subsubsection.7.1.2}% 
+\contentsline {section}{\numberline {8}Referencias}{12}{section.8}% 

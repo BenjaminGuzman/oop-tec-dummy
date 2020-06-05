@@ -54,6 +54,12 @@ class Media(Frame, GUIComponent, ABC):
         self.__rating_label.pack(side=RIGHT, padx=5)
 
     def _put_info(self, text, font_type=("Verdana", 12), **grid_kwargs):
+        """
+        Puts some info in the info panel
+        :param text: The info that want to be displayed
+        :param font_type: The font of the info that will be displayed
+        :param grid_kwargs: the arguments for positioning the new label with grid method
+        """
         info_label = Label(self._info_panel, text=text, font=font_type)
         info_label.grid(**grid_kwargs)
 
